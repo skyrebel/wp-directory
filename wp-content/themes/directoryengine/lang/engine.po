@@ -1,0 +1,6254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DirectoryEngine v2.1.14\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2018-07-31 01:19+0700\n"
+"PO-Revision-Date: 2018-07-31 01:19+0700\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lang/js\n"
+"X-Poedit-SearchPathExcluded-1: lang/mobile/js\n"
+"X-Poedit-SearchPathExcluded-2: lang/includes/aecore/assets/js\n"
+"X-Poedit-SearchPathExcluded-3: lang/scss/assets/scripts\n"
+"X-Poedit-SearchPathExcluded-4: scss/sass\n"
+"X-Poedit-SearchPathExcluded-5: scss/assets/scripts\n"
+"X-Poedit-SearchPathExcluded-6: js\n"
+
+#: 404.php:10 archive.php:7 author.php:53 category.php:8 page-areas.php:10
+#: page-blog.php:10 page-list-user.php:28 page-login.php:24
+#: page-post-place.php:11 page-profile.php:34 page-reset-pass.php:20
+#: page-static.php:16 page-tos.php:15 page.php:12 single.php:12 tag.php:8
+#: taxonomy.php:8 template/single-place-breadcrumb.php:17
+#: template/single-place-breadcrumb.php:18
+msgid "Home"
+msgstr ""
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:25 mobile/404.php:13
+msgid "Sorry, but the page you were looking for is not here."
+msgstr ""
+
+#: 404.php:26
+msgid "Back to home page "
+msgstr ""
+
+#: admin-template/package-form-js.php:8 admin-template/package-form.php:5
+msgid "SKU"
+msgstr ""
+
+#: admin-template/package-form-js.php:13
+msgid "Package name"
+msgstr ""
+
+#: admin-template/package-form-js.php:18 admin-template/package-form.php:15
+msgid "Price"
+msgstr ""
+
+#: admin-template/package-form-js.php:25 admin-template/package-form.php:22
+msgid "Availability"
+msgstr ""
+
+#: admin-template/package-form-js.php:25 admin-template/package-form.php:22
+#: includes/aecore/fields/field-switch.php:38
+msgid "Disable"
+msgstr ""
+
+#: admin-template/package-form-js.php:27 admin-template/package-form.php:24
+msgid "days"
+msgstr ""
+
+#: admin-template/package-form-js.php:31 admin-template/package-form.php:27
+msgid "Number of places can post"
+msgstr ""
+
+#: admin-template/package-form-js.php:37 admin-template/package-form.php:33
+msgid "Number of events can post in each listing"
+msgstr ""
+
+#: admin-template/package-form-js.php:42 admin-template/package-form.php:37
+msgid "Short description about this package"
+msgstr ""
+
+#: admin-template/package-form-js.php:47
+msgid "Featured Place"
+msgstr ""
+
+#: admin-template/package-form-js.php:49 admin-template/package-form.php:41
+msgid "Places posted under this plan will be featured."
+msgstr ""
+
+#: admin-template/package-form-js.php:54
+msgid "Save Package"
+msgstr ""
+
+#: admin-template/package-form-js.php:56
+#: includes/aecore/fields/field-language-list.php:82 includes/theme.php:275
+#: template/comment-blog.php:41
+msgid "Cancel"
+msgstr ""
+
+#: admin-template/package-form.php:10
+msgid "Enter a name for your plan"
+msgstr ""
+
+#: admin-template/package-form.php:29
+msgid "posts"
+msgstr ""
+
+#: admin-template/package-form.php:45
+msgid "Save Plan"
+msgstr ""
+
+#: archive.php:11 mobile/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:13 mobile/archive.php:16
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:15 mobile/archive.php:19
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:17 mobile/archive.php:22
+msgid "Archives"
+msgstr ""
+
+#: author.php:54 page-profile.php:35
+#, php-format
+msgid "Profile of %s"
+msgstr ""
+
+#: author.php:81 template/post-place-step2.php:92
+msgid "New look"
+msgstr ""
+
+#: author.php:94 includes/theme.php:289 mobile/author.php:76
+#: mobile/page-profile.php:94 mobile/template/js-user-item.php:12
+#: mobile/template/user-item.php:4 page-profile.php:78
+#: template-js/user-item.php:12 template/user-item.php:4
+msgid "Earth"
+msgstr ""
+
+#: author.php:100 includes/theme.php:288 mobile/author.php:79
+#: mobile/page-profile.php:100 page-profile.php:80
+msgid "No phone"
+msgstr ""
+
+#: author.php:106 mobile/page-profile.php:103 page-profile.php:82
+msgid "No facebook"
+msgstr ""
+
+#: author.php:119 mobile/author.php:86
+#, php-format
+msgid "Owned %d places"
+msgstr ""
+
+#: author.php:121 mobile/author.php:88
+#, php-format
+msgid "Owned %d place"
+msgstr ""
+
+#: author.php:144 mobile/single-place.php:105
+#: template/single-place-details.php:151
+#, php-format
+msgid "%d reviews"
+msgstr ""
+
+#: author.php:146
+#, php-format
+msgid "%d review"
+msgstr ""
+
+#: author.php:183
+#, php-format
+msgid "%d pictures"
+msgstr ""
+
+#: author.php:185
+#, php-format
+msgid "%d picture"
+msgstr ""
+
+#: author.php:194
+msgid "Contact This User"
+msgstr ""
+
+#: author.php:226 includes/aecore/class-ae-wizard.php:135 includes/home.php:84
+#: includes/home.php:117 includes/places.php:36 includes/template.php:682
+#: mobile/archive-place.php:10 mobile/author.php:136 mobile/header.php:109
+#: mobile/page-front.php:12 mobile/page-profile.php:200
+#: mobile/taxonomy-location.php:10 mobile/taxonomy-place_category.php:10
+#: mobile/taxonomy-place_tag.php:10
+msgid "Places"
+msgstr ""
+
+#: author.php:231 includes/events.php:14 includes/events.php:25
+#: mobile/author.php:141 mobile/page-profile.php:205
+msgid "Events"
+msgstr ""
+
+#: author.php:236 mobile/author.php:146 mobile/header.php:122
+#: mobile/page-profile.php:210
+msgid "Reviews"
+msgstr ""
+
+#: author.php:242 mobile/author.php:151 mobile/page-profile.php:215
+msgid "Togos"
+msgstr ""
+
+#: customizer/customizer.php:29
+msgid "DE Options"
+msgstr ""
+
+#: customizer/customizer.php:32
+msgid "Allows you to customize some example settings for DirectoryEngine."
+msgstr ""
+
+#: customizer/customizer.php:75
+msgid "Heaher Background Color"
+msgstr ""
+
+#: customizer/customizer.php:82
+msgid "Body Background Color"
+msgstr ""
+
+#: customizer/customizer.php:89
+msgid "Footer Background Color"
+msgstr ""
+
+#: customizer/customizer.php:96
+msgid "Copyright Background Color"
+msgstr ""
+
+#: customizer/customizer.php:103 customizer/customizer_home.php:61
+msgid "Main Color"
+msgstr ""
+
+#: customizer/customizer.php:604 customizer/customizer_home.php:17
+msgid "Header Background"
+msgstr ""
+
+#: customizer/customizer.php:605 customizer/customizer_home.php:28
+msgid "Body Background"
+msgstr ""
+
+#: customizer/customizer.php:606 customizer/customizer_home.php:39
+msgid "Footer Background"
+msgstr ""
+
+#: customizer/customizer.php:607 customizer/customizer_home.php:50
+msgid "Copyright Background"
+msgstr ""
+
+#: customizer/customizer.php:608
+msgid "Main color"
+msgstr ""
+
+#: customizer/customizer.php:750
+msgid "Color Schemes"
+msgstr ""
+
+#: customizer/customizer.php:775
+msgid "Page Options"
+msgstr ""
+
+#: customizer/customizer.php:778
+msgid "Colors"
+msgstr ""
+
+#: customizer/customizer.php:791
+msgid "Content Options"
+msgstr ""
+
+#: customizer/customizer.php:796
+msgid "Heading"
+msgstr ""
+
+#: customizer/customizer.php:811 includes/admin.php:1012
+msgid "Content"
+msgstr ""
+
+#: customizer/customizer.php:827 includes/aecore/fields/field-translate.php:56
+msgid "Save"
+msgstr ""
+
+#: customizer/customizer.php:828 mobile/page-search-location.php:80
+#: page-search-location.php:85 template-js/modal-resetpass.php:21
+msgid "Reset"
+msgstr ""
+
+#: customizer/customizer.php:874
+msgid "Activate customization mode"
+msgstr ""
+
+#: customizer/customizer.php:965
+msgid "Changes are saved successfully."
+msgstr ""
+
+#: customizer/customizer.php:974
+#, php-format
+msgid "Something went wrong! System cause following error <br /> %s"
+msgstr ""
+
+#: customizer/customizer_home.php:8
+#: includes/aecore/template-js/add-pack-form.php:16
+#: includes/aecore/template/add-pack-form.php:13
+msgid "Color"
+msgstr ""
+
+#: customizer/customizer_home.php:69
+msgid "Block Home Pages"
+msgstr ""
+
+#: customizer/customizer_home.php:70
+msgid "Description of what this panel does."
+msgstr ""
+
+#: customizer/customizer_home.php:76
+msgid "Block Search"
+msgstr ""
+
+#: customizer/customizer_home.php:85 customizer/customizer_home.php:201
+msgid "Background Image"
+msgstr ""
+
+#: customizer/customizer_home.php:86 customizer/customizer_home.php:202
+msgid "The optimal dimensions are 1920x530 pixels."
+msgstr ""
+
+#: customizer/customizer_home.php:92
+msgid "Discover"
+msgstr ""
+
+#: customizer/customizer_home.php:96 customizer/customizer_home.php:127
+#: customizer/customizer_home.php:183 customizer/customizer_home.php:211
+#: customizer/customizer_home.php:286 customizer/customizer_home.php:315
+#: customizer/customizer_home.php:363 includes/vc_blocks/areas.php:48
+#: includes/vc_blocks/blog.php:62 includes/vc_blocks/category.php:51
+#: includes/vc_blocks/feature.php:57 includes/vc_blocks/place.php:87
+#: includes/vc_blocks/review.php:42 includes/vc_blocks/service.php:61
+#: includes/vc_blocks/testimonial.php:41
+msgid "Title"
+msgstr ""
+
+#: customizer/customizer_home.php:102 customizer/customizer_home.php:360
+#: customizer/customizer_home.php:369
+msgid "Your Need"
+msgstr ""
+
+#: customizer/customizer_home.php:105 customizer/customizer_home.php:324
+#: customizer/customizer_home.php:372
+msgid "Description"
+msgstr ""
+
+#: customizer/customizer_home.php:115
+msgid "Block Place Collection"
+msgstr ""
+
+#: customizer/customizer_home.php:123
+msgid "Place Collection"
+msgstr ""
+
+#: customizer/customizer_home.php:138 includes/vc_blocks/areas.php:78
+msgid "Show areas count"
+msgstr ""
+
+#: customizer/customizer_home.php:149 customizer/customizer_home.php:268
+#: includes/vc_blocks/areas.php:92 includes/vc_blocks/category.php:87
+msgid "Order by"
+msgstr ""
+
+#: customizer/customizer_home.php:164
+msgid ""
+"Choose a maximum of 5 locations from the existing locations in the back-end"
+msgstr ""
+
+#: customizer/customizer_home.php:174
+msgid "Block Popular Places"
+msgstr ""
+
+#: customizer/customizer_home.php:180
+msgid "Popular Places"
+msgstr ""
+
+#: customizer/customizer_home.php:192
+msgid "Block Why"
+msgstr ""
+
+#: customizer/customizer_home.php:208 customizer/customizer_home.php:283
+msgid "How DE Work"
+msgstr ""
+
+#: customizer/customizer_home.php:221
+msgid "Block Reviews And Categories"
+msgstr ""
+
+#: customizer/customizer_home.php:226 customizer/customizer_home.php:229
+#: functions.php:719 mobile/single-place.php:84
+msgid "Review"
+msgstr ""
+
+#: customizer/customizer_home.php:239
+msgid "Number Place Review"
+msgstr ""
+
+#: customizer/customizer_home.php:245 customizer/customizer_home.php:248
+#: mobile/archive-place.php:17 mobile/page-front.php:19
+#: mobile/page-list-reviews.php:20 mobile/search.php:75
+#: mobile/taxonomy-location.php:17 mobile/taxonomy-place_category.php:17
+#: mobile/taxonomy-place_tag.php:17
+msgid "Categories"
+msgstr ""
+
+#: customizer/customizer_home.php:259 includes/vc_blocks/category.php:73
+msgid "Show posts count"
+msgstr ""
+
+#: customizer/customizer_home.php:278
+msgid "Block How"
+msgstr ""
+
+#: customizer/customizer_home.php:296
+msgid "Block Footer"
+msgstr ""
+
+#: customizer/customizer_home.php:305
+msgid "Background"
+msgstr ""
+
+#: customizer/customizer_home.php:306 customizer/customizer_home.php:352
+msgid ""
+"Leave empty if you want to use the default icon. The optimal dimensions are "
+"85x85 pixels."
+msgstr ""
+
+#: customizer/customizer_home.php:312
+msgid "You have several locations and save your time"
+msgstr ""
+
+#: customizer/customizer_home.php:321
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+msgstr ""
+
+#: customizer/customizer_home.php:330
+msgid "Get Started"
+msgstr ""
+
+#: customizer/customizer_home.php:333
+msgid "Button text"
+msgstr ""
+
+#: customizer/customizer_home.php:351
+msgid "Item"
+msgstr ""
+
+#: customizer/customizer_home.php:400 includes/admin.php:1166
+#: includes/places.php:155 includes/vc_blocks/place.php:115
+msgid "Location"
+msgstr ""
+
+#: functions.php:245
+msgid "Header menu"
+msgstr ""
+
+#: functions.php:246
+msgid "Mobile Header menu"
+msgstr ""
+
+#: functions.php:248
+msgid "Header top menu"
+msgstr ""
+
+#: functions.php:249
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:376 includes/aecore/framework.php:142
+msgid "bad"
+msgstr ""
+
+#: functions.php:377 includes/aecore/framework.php:143
+msgid "poor"
+msgstr ""
+
+#: functions.php:378 includes/aecore/framework.php:144
+msgid "nice"
+msgstr ""
+
+#: functions.php:379 includes/aecore/framework.php:145
+msgid "good"
+msgstr ""
+
+#: functions.php:380 includes/aecore/framework.php:146
+msgid "gorgeous"
+msgstr ""
+
+#: functions.php:720
+msgid "Favorite"
+msgstr ""
+
+#: functions.php:721 mobile/single-place.php:216
+#: template/single-place-option-list.php:86
+msgid "Report"
+msgstr ""
+
+#: functions.php:970 includes/aecore/class-ae-users.php:325
+#: includes/aecore/class-ae-users.php:410
+msgid "You can't create an administrator account."
+msgstr ""
+
+#: functions.php:1008
+msgid "You are here"
+msgstr ""
+
+#: functions.php:1010
+msgid "Show my location"
+msgstr ""
+
+#: functions.php:1011
+msgid "Geolocation failed"
+msgstr ""
+
+#: functions.php:1012
+msgid "Your browser does not support geolocation"
+msgstr ""
+
+#: functions.php:1014
+msgid "DRIVING"
+msgstr ""
+
+#: functions.php:1015
+msgid "WALKING"
+msgstr ""
+
+#: functions.php:1016
+msgid "BICYCLING"
+msgstr ""
+
+#: functions.php:1017
+msgid "TRANSIT"
+msgstr ""
+
+#: functions.php:1021
+msgid "Please enter a valid time."
+msgstr ""
+
+#: functions.php:1025 template-js/modal-edit-place.php:98
+#: template-js/modal-edit-place.php:108 template/post-place-step3.php:199
+#: template/post-place-step3.php:209
+msgid "Select All"
+msgstr ""
+
+#: functions.php:1026
+msgid "Deselect"
+msgstr ""
+
+#: functions.php:1374 includes/aecore/functions.php:808
+#: includes/aecore/functions.php:1227
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: functions.php:1376 includes/aecore/functions.php:808
+#: includes/aecore/functions.php:1227
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: functions.php:1380 includes/aecore/functions.php:803
+#: includes/aecore/functions.php:1222
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: functions.php:1382 includes/aecore/functions.php:803
+#: includes/aecore/functions.php:1222
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: functions.php:1386 includes/aecore/functions.php:798
+#: includes/aecore/functions.php:1217
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: functions.php:1388 includes/aecore/functions.php:798
+#: includes/aecore/functions.php:1217
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: functions.php:1403 includes/aecore/framework.php:209
+#: template-js/modal-edit-place.php:100 template/post-place-step3.php:201
+msgid "Mon"
+msgstr ""
+
+#: functions.php:1403 includes/aecore/framework.php:210
+#: template-js/modal-edit-place.php:101 template/post-place-step3.php:202
+msgid "Tue"
+msgstr ""
+
+#: functions.php:1403 includes/aecore/framework.php:211
+#: template-js/modal-edit-place.php:102 template/post-place-step3.php:203
+msgid "Wed"
+msgstr ""
+
+#: functions.php:1404 includes/aecore/framework.php:212
+#: template-js/modal-edit-place.php:103 template/post-place-step3.php:204
+msgid "Thu"
+msgstr ""
+
+#: functions.php:1404 includes/aecore/framework.php:213
+#: template-js/modal-edit-place.php:104 template/post-place-step3.php:205
+msgid "Fri"
+msgstr ""
+
+#: functions.php:1404 includes/aecore/framework.php:214
+#: template-js/modal-edit-place.php:105 template/post-place-step3.php:206
+msgid "Sat"
+msgstr ""
+
+#: functions.php:1404 includes/aecore/framework.php:208
+#: includes/aecore/framework.php:215 template-js/modal-edit-place.php:106
+#: template/post-place-step3.php:207
+msgid "Sun"
+msgstr ""
+
+#: functions.php:1487 functions.php:1498 functions.php:1502
+#: includes/events.php:177 template/single-place-details.php:72
+#, php-format
+msgid "%s to %s"
+msgstr ""
+
+#: functions.php:1490 functions.php:1508 functions.php:1512
+#: includes/theme.php:287 includes/widgets.php:427 includes/widgets.php:590
+msgid "None"
+msgstr ""
+
+#: header.php:88
+msgid ""
+"Your account has not been confirmed yet! Please check your mailbox to "
+"activate your account."
+msgstr ""
+
+#: header.php:94
+msgid "Resend an activation code"
+msgstr ""
+
+#: header.php:129 index.php:15 page-profile.php:88
+msgid "Add Your place"
+msgstr ""
+
+#: header.php:159 header.php:219
+msgid "Profile"
+msgstr ""
+
+#: header.php:168
+#, php-format
+msgid "%s Pending"
+msgstr ""
+
+#: header.php:176 header.php:224
+msgid "Log Out"
+msgstr ""
+
+#: header.php:192 header.php:233 mobile/page-login.php:56
+msgid "SIGN IN"
+msgstr ""
+
+#: header.php:240
+msgid "Contact phone number"
+msgstr ""
+
+#: header.php:244
+msgid "Contact email"
+msgstr ""
+
+#: includes/admin.php:258 includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin.php:259 includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin.php:260 includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin.php:262
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin.php:281 includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin.php:282 includes/class-tgm-plugin-activation.php:212
+#: includes/class-tgm-plugin-activation.php:1964
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin.php:283
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/admin.php:303
+msgid "General"
+msgstr ""
+
+#: includes/admin.php:311 includes/admin.php:321 includes/admin.php:340
+msgid "Website Title"
+msgstr ""
+
+#: includes/admin.php:314
+msgid "Enter your website title."
+msgstr ""
+
+#: includes/admin.php:330
+msgid "Website Description"
+msgstr ""
+
+#: includes/admin.php:333
+msgid "Enter your website description."
+msgstr ""
+
+#: includes/admin.php:348 includes/admin.php:358 includes/admin.php:449
+#: includes/admin.php:467
+msgid "Copyright"
+msgstr ""
+
+#: includes/admin.php:351
+msgid "This copyright information will appear in the footer."
+msgstr ""
+
+#: includes/admin.php:366 includes/admin.php:376
+msgid "Support Phone"
+msgstr ""
+
+#: includes/admin.php:369
+msgid "Enter your support phone number."
+msgstr ""
+
+#: includes/admin.php:385 includes/admin.php:395
+msgid "Support Email"
+msgstr ""
+
+#: includes/admin.php:388
+msgid "Enter your support email."
+msgstr ""
+
+#: includes/admin.php:403 includes/admin.php:413
+msgid "Google Analytics Script"
+msgstr ""
+
+#: includes/admin.php:406
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+
+#: includes/admin.php:421
+msgid "Email Confirmation "
+msgstr ""
+
+#: includes/admin.php:424
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+
+#: includes/admin.php:431
+msgid "Email Confirmation"
+msgstr ""
+
+#: includes/admin.php:439
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/admin.php:457
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/admin.php:475 includes/admin.php:485
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/admin.php:493 includes/admin.php:503
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/admin.php:511 includes/admin.php:521
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/admin.php:529
+msgid "Login to admin panel"
+msgstr ""
+
+#: includes/admin.php:532
+msgid "Prevent directly login to admin page."
+msgstr ""
+
+#: includes/admin.php:539
+msgid "Enable this option will prevent directly login to admin page."
+msgstr ""
+
+#: includes/admin.php:547
+msgid "Disable automatic page creation."
+msgstr ""
+
+#: includes/admin.php:550
+msgid "Enabling this will allow you to turn off the automatic page creation."
+msgstr ""
+
+#: includes/admin.php:557
+msgid "Enable this option will disable automatic page creation."
+msgstr ""
+
+#: includes/admin.php:565
+msgid "Administrators email"
+msgstr ""
+
+#: includes/admin.php:568
+msgid "The new post notification will be sent to these emails."
+msgstr ""
+
+#: includes/admin.php:575
+msgid "Ex: abc@gmail.com,bcd@gmail.com"
+msgstr ""
+
+#: includes/admin.php:589
+msgid "Branding"
+msgstr ""
+
+#: includes/admin.php:598
+msgid "Site logo"
+msgstr ""
+
+#: includes/admin.php:602 includes/admin.php:626
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+
+#: includes/admin.php:609
+msgid "Site Logo"
+msgstr ""
+
+#: includes/admin.php:622
+msgid "Mobile logo"
+msgstr ""
+
+#: includes/admin.php:633
+msgid "Mobile Logo"
+msgstr ""
+
+#: includes/admin.php:646 includes/admin.php:657 includes/admin.php:699
+msgid "Mobile Icon"
+msgstr ""
+
+#: includes/admin.php:650
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+
+#: includes/admin.php:670
+msgid "Use Pre Loading"
+msgstr ""
+
+#: includes/admin.php:673
+msgid "Enabling this will allow the page preloading to be seen on the website."
+msgstr ""
+
+#: includes/admin.php:688
+msgid "Pre Loading Icon"
+msgstr ""
+
+#: includes/admin.php:692
+msgid "The pre loading image dimensions should be 57x57px."
+msgstr ""
+
+#: includes/admin.php:711 includes/admin.php:722
+msgid "Default avatar"
+msgstr ""
+
+#: includes/admin.php:715
+msgid "The default avatar image dimensions should be 150x150px."
+msgstr ""
+
+#: includes/admin.php:734 includes/admin.php:745 includes/admin.php:768
+msgid "Default thumbnail"
+msgstr ""
+
+#: includes/admin.php:738
+msgid "The default thumbnail image dimensions should be 270x280px."
+msgstr ""
+
+#: includes/admin.php:757
+msgid "Default Location Image"
+msgstr ""
+
+#: includes/admin.php:761
+msgid "The default location image dimensions should be 200x175px."
+msgstr ""
+
+#: includes/admin.php:785
+msgid "Map"
+msgstr ""
+
+#: includes/admin.php:793 includes/admin.php:802
+msgid "Map API Key"
+msgstr ""
+
+#: includes/admin.php:796
+msgid ""
+"Enter your API Key. <a href='https://console.developers.google.com/apis/"
+"library' target='_blank' rel='nofollow'>Get key</a>"
+msgstr ""
+
+#: includes/admin.php:810
+msgid "Map Settings"
+msgstr ""
+
+#: includes/admin.php:813
+msgid "Enter the address you want to set center."
+msgstr ""
+
+#: includes/admin.php:820
+msgid "Map Default Center"
+msgstr ""
+
+#: includes/admin.php:823
+msgid "Default center address"
+msgstr ""
+
+#: includes/admin.php:828
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/admin.php:829 includes/admin.php:832
+msgid "Map Default Zoom"
+msgstr ""
+
+#: includes/admin.php:837
+msgid "Mobile Map Zoom"
+msgstr ""
+
+#: includes/admin.php:838 includes/admin.php:841
+msgid "Mobile Map Default Zoom"
+msgstr ""
+
+#: includes/admin.php:848
+msgid "Place Labels Display"
+msgstr ""
+
+#: includes/admin.php:851
+msgid ""
+"Enabling this if you want all place labels on Google Map to be displayed."
+msgstr ""
+
+#: includes/admin.php:857
+msgid "Display Map Type Style"
+msgstr ""
+
+#: includes/admin.php:865
+msgid "Map Marker In The Single Place Page Display"
+msgstr ""
+
+#: includes/admin.php:868
+msgid ""
+"Enabling this if you want only map marker of the current place to be "
+"displayed."
+msgstr ""
+
+#: includes/admin.php:875
+msgid ""
+"Enable will display multiple map marker icons in category of current place."
+msgstr ""
+
+#: includes/admin.php:883
+msgid "Fitbounds"
+msgstr ""
+
+#: includes/admin.php:886 includes/admin.php:893
+msgid "Enabling this will allow the viewport to contain all markers."
+msgstr ""
+
+#: includes/admin.php:901 includes/admin.php:911 includes/admin.php:914
+msgid "Geolocation"
+msgstr ""
+
+#: includes/admin.php:904
+msgid "Enabling this will require users to provide their current location."
+msgstr ""
+
+#: includes/admin.php:915
+msgid "geolocation"
+msgstr ""
+
+#: includes/admin.php:945 includes/admin.php:956 includes/admin.php:959
+#: includes/admin.php:960
+msgid "Units of measurement"
+msgstr ""
+
+#: includes/admin.php:948
+msgid "Select the unit of measurement when your user search nearby."
+msgstr ""
+
+#: includes/admin.php:955 includes/theme.php:721
+msgid "Miles"
+msgstr ""
+
+#: includes/admin.php:955
+msgid "Kilometers"
+msgstr ""
+
+#: includes/admin.php:967
+msgid "Nearby distance"
+msgstr ""
+
+#: includes/admin.php:970
+msgid "Enter a distance number for your user search nearby."
+msgstr ""
+
+#: includes/admin.php:977 includes/admin.php:980
+msgid "Mobile Nearby Distance"
+msgstr ""
+
+#: includes/admin.php:987
+msgid "Radius Search"
+msgstr ""
+
+#: includes/admin.php:990
+msgid "Enter a  number for search radius."
+msgstr ""
+
+#: includes/admin.php:997 includes/admin.php:1000
+msgid "Radius Search Distance"
+msgstr ""
+
+#: includes/admin.php:1021
+msgid "Maximum number of pictures in gallery"
+msgstr ""
+
+#: includes/admin.php:1024
+msgid "Set up how many pictures a place can have."
+msgstr ""
+
+#: includes/admin.php:1031
+msgid "Max Number Of Place Gallery"
+msgstr ""
+
+#: includes/admin.php:1039
+msgid "Post Images In A Comment/Review"
+msgstr ""
+
+#: includes/admin.php:1042
+msgid "Allow users to attach photos in their comments/reviews."
+msgstr ""
+
+#: includes/admin.php:1048 includes/admin.php:1086 includes/admin.php:1369
+#: includes/admin.php:1394 includes/admin.php:1425 includes/admin.php:1460
+#: includes/admin.php:1467 includes/admin.php:1525 includes/admin.php:1532
+#: includes/admin.php:1572 includes/admin.php:2196
+msgid "Align"
+msgstr ""
+
+#: includes/admin.php:1056
+msgid "Maximum number of pictures in a comment/review"
+msgstr ""
+
+#: includes/admin.php:1059
+msgid "Set up the number of images users can attach in a comment/review."
+msgstr ""
+
+#: includes/admin.php:1066
+msgid "Max Number Of Comment/Review Gallery"
+msgstr ""
+
+#: includes/admin.php:1074
+msgid "Pending Post"
+msgstr ""
+
+#: includes/admin.php:1077
+msgid ""
+"Enabling this will make every new place post pending until you review and "
+"approve it manually."
+msgstr ""
+
+#: includes/admin.php:1094 includes/admin.php:1104
+msgid "View counter"
+msgstr ""
+
+#: includes/admin.php:1097
+msgid ""
+"Enabling this will display how many times a place, a page or post had been "
+"viewed."
+msgstr ""
+
+#: includes/admin.php:1113
+msgid "Maximum Number of Categories"
+msgstr ""
+
+#: includes/admin.php:1116
+msgid "Set a maximum number of categories a place can assign to"
+msgstr ""
+
+#: includes/admin.php:1123
+msgid "Max Number Of Place Categories"
+msgstr ""
+
+#: includes/admin.php:1153 includes/admin.php:1227
+msgid "Place Category"
+msgstr ""
+
+#: includes/admin.php:1183
+msgid "Url slug"
+msgstr ""
+
+#: includes/admin.php:1191 includes/places.php:24 includes/places.php:25
+msgid "Place"
+msgstr ""
+
+#: includes/admin.php:1194
+msgid "Enter slug for your Single Place page"
+msgstr ""
+
+#: includes/admin.php:1200 includes/admin.php:1202
+msgid "Single Place page Slug"
+msgstr ""
+
+#: includes/admin.php:1209
+msgid "Place Archives"
+msgstr ""
+
+#: includes/admin.php:1212 includes/admin.php:1230 includes/admin.php:1248
+msgid "Enter slug for your Archive Places page"
+msgstr ""
+
+#: includes/admin.php:1218 includes/admin.php:1220
+msgid "Archive Places page Slug"
+msgstr ""
+
+#: includes/admin.php:1236 includes/admin.php:1238
+msgid "Places Category page Slug"
+msgstr ""
+
+#: includes/admin.php:1245
+msgid "Place Location"
+msgstr ""
+
+#: includes/admin.php:1254 includes/admin.php:1256
+msgid "Places Location page Slug"
+msgstr ""
+
+#: includes/admin.php:1263
+msgid "Place Tags"
+msgstr ""
+
+#: includes/admin.php:1266
+msgid "Enter slug for your Tag Places page"
+msgstr ""
+
+#: includes/admin.php:1272 includes/admin.php:1274
+msgid "Places Tag page Slug"
+msgstr ""
+
+#: includes/admin.php:1287
+msgid "Captcha"
+msgstr ""
+
+#: includes/admin.php:1295 includes/admin.php:1304
+msgid "Google reCaptcha"
+msgstr ""
+
+#: includes/admin.php:1298
+msgid ""
+"Enabling this will prevent spammers from registering.<a href='https://www."
+"google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr ""
+
+#: includes/admin.php:1311
+msgid "Site key"
+msgstr ""
+
+#: includes/admin.php:1313
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: includes/admin.php:1319
+msgid "Secret key"
+msgstr ""
+
+#: includes/admin.php:1321
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: includes/admin.php:1333
+msgid "Payment"
+msgstr ""
+
+#: includes/admin.php:1343
+msgid "Payment Currency"
+msgstr ""
+
+#: includes/admin.php:1346
+msgid "Enter currency code and sign."
+msgstr ""
+
+#: includes/admin.php:1353 includes/admin.php:1355
+msgid "Code"
+msgstr ""
+
+#: includes/admin.php:1361 includes/admin.php:1363
+msgid "Sign"
+msgstr ""
+
+#: includes/admin.php:1374 template-js/modal-edit-place.php:175
+msgid "Left"
+msgstr ""
+
+#: includes/admin.php:1375 template-js/modal-edit-place.php:182
+msgid "Right"
+msgstr ""
+
+#: includes/admin.php:1382
+msgid "Free to submit place"
+msgstr ""
+
+#: includes/admin.php:1385
+msgid "Enabling this will allow users to submit place for free."
+msgstr ""
+
+#: includes/admin.php:1401
+msgid "Number of event"
+msgstr ""
+
+#: includes/admin.php:1405
+msgid "Number of event per listing"
+msgstr ""
+
+#: includes/admin.php:1413
+msgid "Payment Test Mode"
+msgstr ""
+
+#: includes/admin.php:1416
+msgid ""
+"Enabling this will allow you to test payment without charging your account."
+msgstr ""
+
+#: includes/admin.php:1435
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/admin.php:1438
+msgid "Set payment plans your users can choose when posting new places."
+msgstr ""
+
+#: includes/admin.php:1448 includes/aecore/fields/container-payments.php:37
+#: includes/aecore/template/order-item.php:16 template/post-place-step4.php:34
+msgid "Paypal"
+msgstr ""
+
+#: includes/admin.php:1451
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr ""
+
+#: includes/admin.php:1470
+msgid "Enter your PayPal email address"
+msgstr ""
+
+#: includes/admin.php:1477 includes/aecore/fields/container-payments.php:38
+#: includes/aecore/template/order-item.php:17
+#: mobile/page-process-payment.php:48 page-process-payment.php:53
+#: template/post-place-step4.php:48
+msgid "2Checkout"
+msgstr ""
+
+#: includes/admin.php:1480
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr ""
+
+#: includes/admin.php:1489
+msgid "2Checkout mode"
+msgstr ""
+
+#: includes/admin.php:1496
+msgid "Sid"
+msgstr ""
+
+#: includes/admin.php:1499
+msgid "Your 2Checkout Seller ID"
+msgstr ""
+
+#: includes/admin.php:1504
+msgid "Secret Key"
+msgstr ""
+
+#: includes/admin.php:1507
+msgid "Your 2Checkout Secret Key"
+msgstr ""
+
+#: includes/admin.php:1513 includes/aecore/fields/container-payments.php:36
+#: includes/aecore/payment/et-payment.php:47
+#: includes/aecore/template/order-item.php:15
+#: mobile/page-process-payment.php:47 page-process-payment.php:52
+#: template/post-place-step4.php:63
+msgid "Cash"
+msgstr ""
+
+#: includes/admin.php:1516
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr ""
+
+#: includes/admin.php:1546
+msgid "Payment Plans"
+msgstr ""
+
+#: includes/admin.php:1563
+msgid "Limit Free Plan Use"
+msgstr ""
+
+#: includes/admin.php:1566
+msgid ""
+"Enter the maximum number allowed for employers to use your Free plan (plan "
+"with price is 0)"
+msgstr ""
+
+#: includes/admin.php:1586
+msgid "Mailing"
+msgstr ""
+
+#: includes/admin.php:1595
+msgid "Authentication Mail Template"
+msgstr ""
+
+#: includes/admin.php:1604 includes/admin.php:1741
+msgid "Mail description here"
+msgstr ""
+
+#: includes/admin.php:1605
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr ""
+
+#: includes/admin.php:1606 includes/admin.php:1743
+msgid "user's details you want to send mail"
+msgstr ""
+
+#: includes/admin.php:1607 includes/admin.php:1744
+msgid "member dashboard url "
+msgstr ""
+
+#: includes/admin.php:1608 includes/admin.php:1745
+msgid "question title, link and details"
+msgstr ""
+
+#: includes/admin.php:1609 includes/admin.php:1746
+msgid "activate link is require for user to renew their pass"
+msgstr ""
+
+#: includes/admin.php:1610 includes/admin.php:1747
+msgid "cash message when user pay success"
+msgstr ""
+
+#: includes/admin.php:1611 includes/admin.php:1748
+msgid " site info, admin email"
+msgstr ""
+
+#: includes/admin.php:1621
+msgid "Register Mail Template"
+msgstr ""
+
+#: includes/admin.php:1630 includes/admin.php:1687 includes/admin.php:2001
+#: includes/admin.php:2019
+msgid "Register Mail"
+msgstr ""
+
+#: includes/admin.php:1640
+msgid "Confirm Mail Template"
+msgstr ""
+
+#: includes/admin.php:1649
+msgid "Confirme Mail"
+msgstr ""
+
+#: includes/admin.php:1659
+msgid "Confirmed Mail Template"
+msgstr ""
+
+#: includes/admin.php:1668
+msgid "Confirmed Mail"
+msgstr ""
+
+#: includes/admin.php:1678
+msgid "Forgotpass Mail Template"
+msgstr ""
+
+#: includes/admin.php:1696
+msgid "Resetpass Mail Template"
+msgstr ""
+
+#: includes/admin.php:1705
+msgid "Resetpassword Mail"
+msgstr ""
+
+#: includes/admin.php:1714
+msgid "Inbox Mail Template"
+msgstr ""
+
+#: includes/admin.php:1723
+msgid "Inbox Mail"
+msgstr ""
+
+#: includes/admin.php:1732
+msgid "Place Mail Template"
+msgstr ""
+
+#: includes/admin.php:1742
+msgid ""
+"Email templates for place process. You can use placeholders to include some "
+"specific content."
+msgstr ""
+
+#: includes/admin.php:1758
+msgid "Publish Mail Template"
+msgstr ""
+
+#: includes/admin.php:1767
+msgid "publish Mail"
+msgstr ""
+
+#: includes/admin.php:1776
+msgid "Archive Mail Template"
+msgstr ""
+
+#: includes/admin.php:1785
+msgid "archive Mail"
+msgstr ""
+
+#: includes/admin.php:1794
+msgid "Reject Mail Template"
+msgstr ""
+
+#: includes/admin.php:1803
+msgid "reject Mail"
+msgstr ""
+
+#: includes/admin.php:1812
+msgid "Cash Notification Mail Template"
+msgstr ""
+
+#: includes/admin.php:1821
+msgid "Cash Notification Mail"
+msgstr ""
+
+#: includes/admin.php:1830 includes/admin.php:1839
+msgid "Receipt Mail Template"
+msgstr ""
+
+#: includes/admin.php:1848 includes/admin.php:1857
+msgid "Report Mail Template"
+msgstr ""
+
+#: includes/admin.php:1866 includes/admin.php:1875
+msgid "Claim Mail Template"
+msgstr ""
+
+#: includes/admin.php:1884 includes/admin.php:1893
+msgid "Approve Claim Mail Template"
+msgstr ""
+
+#: includes/admin.php:1902 includes/admin.php:1911
+msgid "Reject Claim Mail Template"
+msgstr ""
+
+#: includes/admin.php:1920
+msgid "New Review Mail Template"
+msgstr ""
+
+#: includes/admin.php:1929 includes/admin.php:1947
+msgid "Comment Place Mail Template"
+msgstr ""
+
+#: includes/admin.php:1938
+msgid "New Event Mail Template"
+msgstr ""
+
+#: includes/admin.php:1956 includes/admin.php:1965
+msgid "Cash Payment Review Email Template"
+msgstr ""
+
+#: includes/admin.php:1982
+msgid "Language"
+msgstr ""
+
+#: includes/admin.php:1991
+msgid "Website Language"
+msgstr ""
+
+#: includes/admin.php:1995
+msgid "Select the language you want to use for your website."
+msgstr ""
+
+#: includes/admin.php:2009
+msgid "Translator"
+msgstr ""
+
+#: includes/admin.php:2013
+msgid "Translate a language"
+msgstr ""
+
+#: includes/admin.php:2033
+msgid "License"
+msgstr ""
+
+#: includes/admin.php:2042 includes/admin.php:2051
+msgid "License Key"
+msgstr ""
+
+#: includes/admin.php:2082 includes/aecore/class-ae-overview.php:46
+#: includes/aecore/class-ae-overview.php:69
+#: includes/aecore/class-ae-overview.php:78
+#: includes/aecore/class-ae-overview.php:87
+msgid "Overview"
+msgstr ""
+
+#: includes/admin.php:2083
+msgid "OVERVIEW"
+msgstr ""
+
+#: includes/admin.php:2087
+#, php-format
+msgid "%s overview"
+msgstr ""
+
+#: includes/admin.php:2106
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:2107
+msgid "SETTINGS"
+msgstr ""
+
+#: includes/admin.php:2111
+msgid "Manage how your DirectoryEngine looks and feels"
+msgstr ""
+
+#: includes/admin.php:2127
+msgid "Members"
+msgstr ""
+
+#: includes/admin.php:2128
+msgid "MEMBERS"
+msgstr ""
+
+#: includes/admin.php:2132
+msgid "Overview of registered members"
+msgstr ""
+
+#: includes/admin.php:2144
+msgid "Payments"
+msgstr ""
+
+#: includes/admin.php:2145
+msgid "PAYMENTS"
+msgstr ""
+
+#: includes/admin.php:2149
+msgid "Overview of all payments"
+msgstr ""
+
+#: includes/admin.php:2160
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/admin.php:2161
+msgid "SETUP WIZARD"
+msgstr ""
+
+#: includes/admin.php:2165
+msgid "Set up and manage every content of your site"
+msgstr ""
+
+#: includes/admin.php:2175 includes/admin.php:2241
+msgid "Upgrade Database"
+msgstr ""
+
+#: includes/admin.php:2184
+msgid "Add 'et_featured' key"
+msgstr ""
+
+#: includes/admin.php:2187
+msgid ""
+"Add the meta data \"et_featured = 0\" to the place that does not have the "
+"meta key."
+msgstr ""
+
+#: includes/admin.php:2207
+msgid "Add 'Rating Score' key"
+msgstr ""
+
+#: includes/admin.php:2210
+msgid ""
+"Add the meta data \"rating_score = 0\" to the place that does not have the "
+"meta key."
+msgstr ""
+
+#: includes/admin.php:2242
+msgid "UPGRADE DATABASE"
+msgstr ""
+
+#: includes/admin.php:2246
+msgid "You must upgrade the database to make DirectoryEngine work properly."
+msgstr ""
+
+#: includes/aecore/category.php:271
+#, php-format
+msgid "%s color has been updated"
+msgstr ""
+
+#: includes/aecore/category.php:277 includes/aecore/category.php:294
+msgid "An error has occurred!"
+msgstr ""
+
+#: includes/aecore/category.php:288
+#, php-format
+msgid "%s icon has been updated"
+msgstr ""
+
+#: includes/aecore/category.php:369
+#: includes/aecore/template-js/cat-item-form.php:28
+msgid "Add a category"
+msgstr ""
+
+#: includes/aecore/category.php:392 includes/aecore/template-js/cat-item.php:14
+msgid "Add sub tax for this tax"
+msgstr ""
+
+#: includes/aecore/category.php:435
+msgid "Move jobs to"
+msgstr ""
+
+#: includes/aecore/category.php:445 includes/theme.php:278
+msgid "Accept"
+msgstr ""
+
+#: includes/aecore/category.php:464 includes/aecore/category.php:584
+#: includes/aecore/class-ae-page.php:415
+#: includes/aecore/social/social_auth.php:134
+msgid "There is an error occurred"
+msgstr ""
+
+#: includes/aecore/category.php:479
+msgid ""
+"You cannot delete a parent category. You need to delete its sub-categories "
+"first."
+msgstr ""
+
+#: includes/aecore/category.php:492
+msgid "Can't delete category"
+msgstr ""
+
+#: includes/aecore/category.php:500
+msgid "Category name is required"
+msgstr ""
+
+#: includes/aecore/category.php:529
+msgid "Cannot find category"
+msgstr ""
+
+#: includes/aecore/class-ae-comments.php:27
+msgid "Already added."
+msgstr ""
+
+#: includes/aecore/class-ae-comments.php:187 includes/reviews.php:195
+msgid "Please wait 2 minutes after each action submission."
+msgstr ""
+
+#: includes/aecore/class-ae-comments.php:208
+msgid "You have already comment on this."
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:130
+#: includes/aecore/class-ae-languages.php:350
+msgid "Invalid file name!"
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:141
+msgid "Adding new language successfully."
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:201
+msgid ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:362
+msgid "There was no changes in your translation."
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:435
+msgid "Translation saved! "
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:490
+#: includes/aecore/class-ae-languages.php:521
+msgid "Type the translation in your language"
+msgstr ""
+
+#: includes/aecore/class-ae-languages.php:534
+msgid "Loading successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:36
+msgid "Congratulations! Your account has been verified successfully."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:62
+#, php-format
+msgid "[%s] New Private Message From %s"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:96
+msgid "Activate Link"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:102 includes/members.php:207
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:120
+#, php-format
+msgid "[%s]New report message from %s."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:141
+#, php-format
+msgid "[%s]Your claim request has been approved."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:160
+#, php-format
+msgid "[%s]Your claim request has been rejected."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:178
+#, php-format
+msgid "[%s]New claim request from %s."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:207
+#, php-format
+msgid "Congratulations! You have successfully registered to %s."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:233
+#, php-format
+msgid "You have request a confirm email from %s."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:267
+#, php-format
+msgid "Your post '%s' has been approved."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:282
+#, php-format
+msgid "Your post \"%s\" has been archived"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:316
+#, php-format
+msgid "Your post '%s' has been rejected."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:339
+msgid "Have a new post on your site."
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:340
+#, php-format
+msgid ""
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:358
+#, php-format
+msgid "You submit a post by cash on '%s'"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:360
+#, php-format
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:379
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:569
+#: includes/aecore/class-ae-mailing.php:628
+msgid "Author's Posts"
+msgstr ""
+
+#: includes/aecore/class-ae-mailing.php:577
+msgid "Confirm link"
+msgstr ""
+
+#: includes/aecore/class-ae-orders.php:15
+msgid "Post ad"
+msgstr ""
+
+#: includes/aecore/class-ae-overview.php:53
+msgid "3 Months Overview"
+msgstr ""
+
+#: includes/aecore/class-ae-overview.php:60
+msgid "2 weeks Overview"
+msgstr ""
+
+#: includes/aecore/class-ae-overview.php:67
+#: includes/aecore/class-ae-overview.php:76
+#: includes/aecore/class-ae-overview.php:85
+msgid "Signup"
+msgstr ""
+
+#: includes/aecore/class-ae-overview.php:99
+#: includes/aecore/class-ae-overview.php:107
+#: includes/aecore/class-ae-overview.php:114
+#, php-format
+msgid "Revenue(%s)"
+msgstr ""
+
+#: includes/aecore/class-ae-overview.php:101
+#: includes/aecore/class-ae-overview.php:109
+#: includes/aecore/class-ae-overview.php:116
+msgid "Revenue"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:193
+msgid "content here"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:231
+#: includes/aecore/class-ae-package.php:79
+#, php-format
+msgid "(%s)%s for %d days"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:233
+#, php-format
+msgid "(%s)%s for %d day"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:235
+#, php-format
+msgid "(%s)%s for unlimited days"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:238
+#: includes/aecore/class-ae-package.php:81
+#, php-format
+msgid "%s(%s) for %d days"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:240
+#, php-format
+msgid "%s(%s) for %d day"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:242
+#, php-format
+msgid "%s(%s) for unlimited days"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:248
+msgid "Sync success."
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:283
+msgid "Sorry, SKU you entered already exists. Try another?"
+msgstr ""
+
+#: includes/aecore/class-ae-pack.php:332
+msgid "Payment plans have been sorted"
+msgstr ""
+
+#: includes/aecore/class-ae-package.php:29
+#, php-format
+msgid "%s for %d days"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:119 includes/aecore/framework.php:160
+msgid "Loading..."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:120 includes/aecore/framework.php:161
+msgid "Loading"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:121
+msgid "Categories' level is limited to 3"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:130 includes/aecore/framework.php:170
+msgid "Image Files"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:135 includes/aecore/framework.php:293
+msgid "You must enter an integer value."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:136
+msgid "The free package already existed."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:157
+msgid "Administration"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:158
+msgid "You are an admin. Here you administrate."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:313 includes/aecore/class-ae-page.php:314
+msgid "Engine Settings"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:341
+msgid "You do not have permission to change option."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:381
+msgid "Update option successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:423
+msgid "You must login to upload image."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:429
+msgid "Missing image ID"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:435
+msgid "Security error!"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:471
+msgid "Branding image has been uploaded successfully"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:476
+msgid "Error when updating settings."
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:482
+msgid "Uploaded file not found"
+msgstr ""
+
+#: includes/aecore/class-ae-page.php:532
+msgid "Site Dashboard"
+msgstr ""
+
+#: includes/aecore/class-ae-payments.php:254
+msgid "Post author information is incorrect!"
+msgstr ""
+
+#: includes/aecore/class-ae-payments.php:305
+msgid "There is no payment plan."
+msgstr ""
+
+#: includes/aecore/class-ae-payments.php:376
+#: includes/aecore/payment/payment-visitor.php:56
+#: includes/aecore/payment/payment-visitor.php:60
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:114 template/author-loop-place.php:9
+msgid "REJECTED"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:115 template/author-loop-place.php:10
+msgid "ARCHIVED"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:116 template/author-loop-place.php:11
+msgid "PENDING"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:117 template/author-loop-place.php:12
+msgid "DRAFT"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:118 template/author-loop-place.php:13
+msgid "ACTIVE"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:119
+msgid "TRASHED"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:120
+msgid "SOLD"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:281
+msgid "The ID already existed!"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:286
+msgid "You must login to submit listing."
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:475
+msgid "Post not found!"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:480
+msgid "You can not edit other posts!"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:597
+msgid "You do not have permission to delete post."
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:655
+#: includes/aecore/class-ae-users.php:1033
+msgid "Invalid method"
+msgstr ""
+
+#: includes/aecore/class-ae-post.php:983 includes/events.php:155
+#: includes/pictures.php:81 includes/places.php:1165
+msgid "Successs"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:87
+msgid "Get user data successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:101
+msgid "Input invalid"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:111
+#: includes/aecore/template/user-item.php:65
+#, php-format
+msgid "Join on %s"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:136
+#, php-format
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:289
+#: includes/aecore/class-ae-users.php:389
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:292
+#: includes/aecore/class-ae-users.php:392
+msgid "Email field is invalid."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:295
+msgid "Password field is required."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:298
+msgid "Repeat Passwords mismatch."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:311 includes/aecore/functions.php:1468
+#: includes/places.php:863 includes/reviews.php:146
+msgid "Please enter a valid captcha!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:367
+#: includes/aecore/class-ae-users.php:454
+msgid "You have registered successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:367
+#: includes/aecore/class-ae-users.php:454
+msgid ""
+"You have registered successfully. Please check your mailbox to activate your "
+"account."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:482
+msgid "Permission Denied!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:493
+msgid "Old password does not match!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:497
+#: includes/aecore/class-ae-users.php:770
+msgid "Retype password is not equal."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:509
+msgid "This email is already used. Please enter a new email."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:562
+msgid "Your profile has been saved successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:565
+msgid "Your password has been changed successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:570
+msgid "User has been banned!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:573
+#: includes/aecore/class-ae-users.php:577
+msgid "User's data update successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:607
+#, php-format
+msgid "You have been banned from %s"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:708
+#: includes/aecore/class-ae-users.php:744
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:711
+msgid "Your account is banned."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:748
+msgid "You have signed in successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:765
+msgid "You cannot change other user password"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:797
+msgid "ERROR: Enter username or email address."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:802
+msgid "ERROR: There is no user registered with that email address."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:813
+msgid "ERROR: Invalid username or email address."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:824 includes/members.php:175
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:846
+msgid ""
+"We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:861
+#: includes/aecore/class-ae-users.php:867
+msgid "Invalid Activation Key."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:863
+msgid "Invalid User Name"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:884
+msgid "Username is empty."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:885
+msgid "Invalid Activation Key"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:886
+msgid "Please enter your new password"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:903
+msgid ""
+"Your password have updated successfull. You can login with your new password "
+"now."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:923
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:1144
+msgid "Get users successfull"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:1149
+msgid "No user found by your query"
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:1179
+msgid "New confirm email already send to your email account."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:1187
+msgid "An unknown error has occurred. Please try again later."
+msgstr ""
+
+#: includes/aecore/class-ae-users.php:1194
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:39
+#, php-format
+msgid ""
+"You have just installed DirectoryEngine theme, we recommend you follow "
+"through our <a href='%s'>setup wizard</a> to set up the basic configuration "
+"for your website! <a href='%s'>Close this message</a>"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:61
+msgid "Import Data Successfully."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:81
+msgid "Delete Data Successfully."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:97
+msgid "Insert sample data"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:98
+#: includes/aecore/class-ae-wizard.php:127
+msgid "Delete sample data"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:99
+msgid "Insert sample data false"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:100
+msgid "Delete sample data false"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:101
+msgid ""
+"It would take up to a few minutes for your images to be uploaded to the "
+"server. Please don't close or reload this page."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:116
+msgid "SAMPLE DATA"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:118
+msgid ""
+"The sample data includes some items for the list below: profile, project, "
+"etc."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:124
+msgid "Install sample data"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:135
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:138
+msgid "Place Categories"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:138
+msgid ""
+"Add new categories or modify the sample data to match your directory "
+"business."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:141
+msgid "Place Locations"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:141
+msgid ""
+"Add new locations or modify the sample data to match your directory business."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:144
+msgid "Pages"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:144
+msgid ""
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra "
+"pages when needed."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:147
+#: includes/aecore/template/user-item.php:60
+msgid "Posts"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:147
+msgid ""
+"A couple of news & event posts have been added for your review. You can "
+"delete it or add your own posts here."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:155
+msgid "MORE SETTINGS"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:156
+msgid "Enhance your site by customizing these other features"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:162
+msgid "General Settings"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:162
+msgid ""
+"Modify your site information, social links, analytics script, or add a "
+"language, etc."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:166
+msgid "Front Page"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:166
+msgid ""
+"Rearrange content elements or add more information in your front page to "
+"suit your needs."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:170
+msgid "Menus"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:170
+msgid "Edit all available menus in your site here."
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:174
+msgid "Sidebars & Widgets"
+msgstr ""
+
+#: includes/aecore/class-ae-wizard.php:174
+msgid ""
+"Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:48
+#: includes/aecore/fields/container-users.php:48 includes/vc_blocks/blog.php:46
+#: includes/vc_blocks/place.php:66 includes/vc_blocks/place.php:67
+msgid "All"
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:57
+msgid "Search post..."
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:66
+msgid "All Orders"
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:78
+msgid "There are no payments yet."
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:88
+msgid "More Payments"
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:176
+msgid "No order found by your query."
+msgstr ""
+
+#: includes/aecore/fields/container-payments.php:218
+msgid "Update order successfull."
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:55
+msgid "Search users..."
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:63
+msgid "All Users"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:78
+msgid "More Users"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:91
+msgid "Ban user"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:96
+msgid "Ban for"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:106
+msgid "Reason"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:111
+msgid "Close"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:112
+#: includes/aecore/social/template.php:60
+#: includes/aecore/social/template.php:82 mobile/header.php:118
+#: template-js/modal-create-event.php:60 template-js/modal-edit-place.php:213
+#: template-js/modal-reject.php:19 template/post-place-step3.php:303
+msgid "Submit"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:147
+#: includes/aecore/template/user-item.php:31
+#, php-format
+msgid "Banned until %s"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:152
+#: includes/aecore/template/user-item.php:37
+msgid "Unban this user"
+msgstr ""
+
+#: includes/aecore/fields/container-users.php:154
+#: includes/aecore/template/user-item.php:41
+msgid "Ban this user"
+msgstr ""
+
+#: includes/aecore/fields/field-image.php:51
+msgid "Browse"
+msgstr ""
+
+#: includes/aecore/fields/field-image.php:55
+msgid "Remove"
+msgstr ""
+
+#: includes/aecore/fields/field-image.php:85
+msgid "Removed successfully!"
+msgstr ""
+
+#: includes/aecore/fields/field-image.php:93
+msgid "Removed failed!"
+msgstr ""
+
+#: includes/aecore/fields/field-language-list.php:68
+msgid "Add a new language"
+msgstr ""
+
+#: includes/aecore/fields/field-language-list.php:70
+msgid "Enter language name"
+msgstr ""
+
+#: includes/aecore/fields/field-language-list.php:79
+msgid "Language name"
+msgstr ""
+
+#: includes/aecore/fields/field-language-list.php:80
+msgid "Enter the language's name"
+msgstr ""
+
+#: includes/aecore/fields/field-language-list.php:81
+msgid "Add language"
+msgstr ""
+
+#: includes/aecore/fields/field-map.php:39
+msgid "Enter map address"
+msgstr ""
+
+#: includes/aecore/fields/field-switch.php:37
+msgid "Enable"
+msgstr ""
+
+#: includes/aecore/fields/field-translate.php:48
+msgid "Choose a Language"
+msgstr ""
+
+#: includes/aecore/fields/field-translate.php:60
+msgid ""
+"You should save your translation after every 20 strings to make sure they "
+"won't lost "
+msgstr ""
+
+#: includes/aecore/fields/list.php:83
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: includes/aecore/framework.php:182
+msgid "Are you sure to archive this?"
+msgstr ""
+
+#: includes/aecore/framework.php:188
+msgid "File extension error"
+msgstr ""
+
+#: includes/aecore/framework.php:190
+msgid ""
+"You have reached the maximum number of Free posts. Please select another "
+"plan."
+msgstr ""
+
+#: includes/aecore/framework.php:191
+msgid "Please fill all require fields."
+msgstr ""
+
+#: includes/aecore/framework.php:198 includes/aecore/framework.php:205
+#: includes/template.php:104
+msgid "Sunday"
+msgstr ""
+
+#: includes/aecore/framework.php:199 includes/template.php:98
+msgid "Monday"
+msgstr ""
+
+#: includes/aecore/framework.php:200 includes/template.php:99
+msgid "Tuesday"
+msgstr ""
+
+#: includes/aecore/framework.php:201 includes/template.php:100
+msgid "Wednesday"
+msgstr ""
+
+#: includes/aecore/framework.php:202 includes/template.php:101
+msgid "Thursday"
+msgstr ""
+
+#: includes/aecore/framework.php:203 includes/template.php:102
+msgid "Friday"
+msgstr ""
+
+#: includes/aecore/framework.php:204 includes/template.php:103
+msgid "Saturday"
+msgstr ""
+
+#: includes/aecore/framework.php:218 includes/aecore/framework.php:225
+msgid "Su"
+msgstr ""
+
+#: includes/aecore/framework.php:219
+msgid "Mo"
+msgstr ""
+
+#: includes/aecore/framework.php:220
+msgid "Tu"
+msgstr ""
+
+#: includes/aecore/framework.php:221
+msgid "We"
+msgstr ""
+
+#: includes/aecore/framework.php:222
+msgid "Th"
+msgstr ""
+
+#: includes/aecore/framework.php:223
+msgid "Fr"
+msgstr ""
+
+#: includes/aecore/framework.php:224
+msgid "Sa"
+msgstr ""
+
+#: includes/aecore/framework.php:228
+msgid "January"
+msgstr ""
+
+#: includes/aecore/framework.php:229
+msgid "February"
+msgstr ""
+
+#: includes/aecore/framework.php:230
+msgid "March"
+msgstr ""
+
+#: includes/aecore/framework.php:231
+msgid "April"
+msgstr ""
+
+#: includes/aecore/framework.php:232 includes/aecore/framework.php:246
+msgid "May"
+msgstr ""
+
+#: includes/aecore/framework.php:233
+msgid "June"
+msgstr ""
+
+#: includes/aecore/framework.php:234
+msgid "July"
+msgstr ""
+
+#: includes/aecore/framework.php:235
+msgid "August"
+msgstr ""
+
+#: includes/aecore/framework.php:236
+msgid "September"
+msgstr ""
+
+#: includes/aecore/framework.php:237
+msgid "October"
+msgstr ""
+
+#: includes/aecore/framework.php:238
+msgid "November"
+msgstr ""
+
+#: includes/aecore/framework.php:239
+msgid "December"
+msgstr ""
+
+#: includes/aecore/framework.php:242
+msgid "Jan"
+msgstr ""
+
+#: includes/aecore/framework.php:243
+msgid "Feb"
+msgstr ""
+
+#: includes/aecore/framework.php:244
+msgid "Mar"
+msgstr ""
+
+#: includes/aecore/framework.php:245
+msgid "Apr"
+msgstr ""
+
+#: includes/aecore/framework.php:247
+msgid "Jun"
+msgstr ""
+
+#: includes/aecore/framework.php:248
+msgid "Jul"
+msgstr ""
+
+#: includes/aecore/framework.php:249
+msgid "Aug"
+msgstr ""
+
+#: includes/aecore/framework.php:250
+msgid "Sep"
+msgstr ""
+
+#: includes/aecore/framework.php:251
+msgid "Oct"
+msgstr ""
+
+#: includes/aecore/framework.php:252
+msgid "Nov"
+msgstr ""
+
+#: includes/aecore/framework.php:253
+msgid "Dec"
+msgstr ""
+
+#: includes/aecore/framework.php:284
+msgid "This field is required."
+msgstr ""
+
+#: includes/aecore/framework.php:285 includes/theme.php:261
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/aecore/framework.php:286 includes/theme.php:264
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: includes/aecore/framework.php:287
+msgid "Please enter a valid number."
+msgstr ""
+
+#: includes/aecore/framework.php:288
+msgid "Please enter only digits."
+msgstr ""
+
+#: includes/aecore/framework.php:289
+msgid "Please enter the same value again."
+msgstr ""
+
+#: includes/aecore/framework.php:290
+msgid "Please enter a valid date."
+msgstr ""
+
+#: includes/aecore/framework.php:291
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: includes/aecore/framework.php:292
+msgid "Please enter a value with a valid extension."
+msgstr ""
+
+#: includes/aecore/framework.php:294
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: includes/aecore/framework.php:295
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: includes/aecore/framework.php:296
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: includes/aecore/framework.php:297
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: includes/aecore/framework.php:298
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: includes/aecore/framework.php:299
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: includes/aecore/framework.php:323
+msgid "Your account has been confirmed successfully!"
+msgstr ""
+
+#: includes/aecore/framework.php:363
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/aecore/framework.php:456
+msgid "Not owned this image!"
+msgstr ""
+
+#: includes/aecore/functions.php:340
+#, php-format
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr ""
+
+#: includes/aecore/functions.php:660
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: includes/aecore/functions.php:664
+msgid "Where is the file?"
+msgstr ""
+
+#: includes/aecore/functions.php:690
+#, php-format
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr ""
+
+#: includes/aecore/functions.php:691
+#, php-format
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+
+#: includes/aecore/functions.php:693
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+
+#: includes/aecore/functions.php:756 includes/aecore/functions.php:1185
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: includes/aecore/functions.php:758 includes/aecore/functions.php:1187
+msgid "ago"
+msgstr ""
+
+#: includes/aecore/functions.php:794 includes/aecore/functions.php:1213
+#, php-format
+msgid "%s min"
+msgstr ""
+
+#: includes/aecore/functions.php:794 includes/aecore/functions.php:1213
+#, php-format
+msgid "%s mins"
+msgstr ""
+
+#: includes/aecore/functions.php:813 includes/aecore/functions.php:1232
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: includes/aecore/functions.php:813 includes/aecore/functions.php:1232
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: includes/aecore/functions.php:818 includes/aecore/functions.php:1237
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: includes/aecore/functions.php:818 includes/aecore/functions.php:1237
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: includes/aecore/functions.php:1097
+msgid "Please fill out the form below "
+msgstr ""
+
+#: includes/aecore/functions.php:1358
+msgid "1 Day"
+msgstr ""
+
+#: includes/aecore/functions.php:1362
+msgid "3 Days"
+msgstr ""
+
+#: includes/aecore/functions.php:1366
+msgid "7 Days"
+msgstr ""
+
+#: includes/aecore/functions.php:1370
+msgid "15 Days"
+msgstr ""
+
+#: includes/aecore/functions.php:1374
+msgid "1 Month"
+msgstr ""
+
+#: includes/aecore/functions.php:1378
+msgid "3 Months"
+msgstr ""
+
+#: includes/aecore/functions.php:1382
+msgid "6 Months"
+msgstr ""
+
+#: includes/aecore/functions.php:1386
+msgid "1 Year"
+msgstr ""
+
+#: includes/aecore/functions.php:1390
+msgid "Forever"
+msgstr ""
+
+#: includes/aecore/import/class-ae-importer.php:734
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/aecore/import/class-ae-importer.php:740
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/aecore/import/class-ae-importer.php:747
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/aecore/import/class-ae-importer.php:752
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/aecore/import/class-ae-importer.php:758
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/aecore/import/parsers.php:42 includes/aecore/import/parsers.php:72
+#: includes/aecore/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/aecore/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/aecore/import/parsers.php:84 includes/aecore/import/parsers.php:89
+#: includes/aecore/import/parsers.php:306
+#: includes/aecore/import/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/aecore/payment/et-2CO.php:161
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/aecore/payment/et-authorize.php:155
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/aecore/payment/et-authorize.php:224
+msgid "Send your payment via Authorize.Net"
+msgstr ""
+
+#: includes/aecore/payment/et-cash.php:22
+msgid ""
+"Please send your payment to account number: XXXX. Once payment has been "
+"verified, admin will approve your post or request."
+msgstr ""
+
+#: includes/aecore/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/aecore/payment/et-order.php:90 includes/vc_blocks/place.php:101
+msgid "Order"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:39 template/post-place-step4.php:35
+msgid "Send your payment via Paypal."
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:42 template/post-place-step4.php:49
+msgid "Send your payment via 2Checkout."
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:48 template/post-place-step4.php:64
+msgid "Send your cash payment to our bank account"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:63
+msgid "Australian Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:66
+msgid "Canadian Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:69
+msgid "Euro"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:72
+msgid "American Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:75
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:78
+msgid "British Pound"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:81
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:449
+msgid "Paypal option is disabled because of invalid setting."
+msgstr ""
+
+#: includes/aecore/payment/et-payment.php:657
+msgid "Please fill in a valid email!"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:347
+#: includes/aecore/payment/payment-visitor.php:393
+#: includes/aecore/payment/payment-visitor.php:403
+msgid "MD5 False"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:348
+#: includes/aecore/payment/payment-visitor.php:404
+msgid "Md5 check sum not match!"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:394
+msgid ""
+"In  Demo mode the 2Checkout order number is changed to '1' which will cause "
+"the hash to fail this. This is intentional so that merchants selling "
+"downloadable products and services can compare the hash to determine whether "
+"to provide a product to a customer"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:434
+msgid "Discount"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:435
+msgid "You have use a coupon code to get discount"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:525
+msgid "Fraudulent or error!"
+msgstr ""
+
+#: includes/aecore/payment/payment-visitor.php:581
+#: includes/aecore/payment/payment-visitor.php:582
+msgid "Invalid order ID"
+msgstr ""
+
+#: includes/aecore/payment/visitor-free.php:48
+msgid "Invalid Payment package"
+msgstr ""
+
+#: includes/aecore/payment/visitor-free.php:66
+msgid "Invalid Post ID"
+msgstr ""
+
+#: includes/aecore/payment/visitor-use-package.php:68
+msgid "Invalid Order or Package"
+msgstr ""
+
+#: includes/aecore/payment/visitor-use-package.php:117
+msgid "Invalid Ad ID"
+msgstr ""
+
+#: includes/aecore/payments.php:82 includes/theme.php:786
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr ""
+
+#: includes/aecore/payments.php:83
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted post is pending until payment."
+msgstr ""
+
+#: includes/aecore/social/facebook.php:10
+#: includes/aecore/social/template.php:26
+msgid "SIGN IN WITH FACEBOOK"
+msgstr ""
+
+#: includes/aecore/social/facebook.php:11
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: includes/aecore/social/facebook.php:12 includes/aecore/social/google.php:14
+#: includes/aecore/social/linkedin.php:17
+#: includes/aecore/social/template.php:66 includes/aecore/social/twitter.php:17
+msgid "Please provide a username to continue"
+msgstr ""
+
+#: includes/aecore/social/facebook.php:48
+#: includes/aecore/social/facebook.php:56
+#: includes/aecore/social/facebook.php:71
+#: includes/aecore/social/facebook.php:91
+#: includes/aecore/social/facebook.php:100
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+
+#: includes/aecore/social/facebook.php:112
+#: includes/aecore/social/facebook.php:120
+msgid "Please login by using your Facebook account again!"
+msgstr ""
+
+#: includes/aecore/social/facebook.php:195
+msgid "You have logged in successfully"
+msgstr ""
+
+#: includes/aecore/social/google.php:12 includes/aecore/social/template.php:41
+msgid "SIGN IN WITH GOOGLE+"
+msgstr ""
+
+#: includes/aecore/social/google.php:13
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+ account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: includes/aecore/social/google.php:27
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr ""
+
+#: includes/aecore/social/google.php:55
+msgid "success"
+msgstr ""
+
+#: includes/aecore/social/google.php:115 includes/aecore/social/google.php:130
+msgid "Error to connect to Google Server!"
+msgstr ""
+
+#: includes/aecore/social/google.php:126
+msgid "Error to connect to Google"
+msgstr ""
+
+#: includes/aecore/social/google.php:183
+msgid "Error to connect to Google Server"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:15
+#: includes/aecore/social/template.php:48
+msgid "SIGN IN WITH LINKEDIN"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:16
+msgid ""
+"This seems to be your first time signing in using your LinkedIn account.If "
+"you already have an account, please log in using the form below to link it "
+"to your LinkedIn account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:31
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:107
+msgid "Error to connect to Linkedin server!"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:111
+msgid "Can not get the access token from Linkedin server!"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:128
+msgid "Error to connect to Linkedin server2!"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:132
+msgid "Can not get user information from Linkedin server!"
+msgstr ""
+
+#: includes/aecore/social/linkedin.php:194
+msgid "Error to connect to Linkedin server"
+msgstr ""
+
+#: includes/aecore/social/settings.php:21
+msgid "Social API"
+msgstr ""
+
+#: includes/aecore/social/settings.php:29
+msgid "Twitter API"
+msgstr ""
+
+#: includes/aecore/social/settings.php:32
+msgid "Enabling this will allow users to log in via Twitter."
+msgstr ""
+
+#: includes/aecore/social/settings.php:39
+msgid "Twitter API "
+msgstr ""
+
+#: includes/aecore/social/settings.php:46
+msgid "Twitter key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:48
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: includes/aecore/social/settings.php:54
+msgid "Twitter secret "
+msgstr ""
+
+#: includes/aecore/social/settings.php:56
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: includes/aecore/social/settings.php:63
+msgid "Facebook API"
+msgstr ""
+
+#: includes/aecore/social/settings.php:66
+msgid "Enabling this will allow users to log in via Facebook."
+msgstr ""
+
+#: includes/aecore/social/settings.php:73
+msgid "Facebook API "
+msgstr ""
+
+#: includes/aecore/social/settings.php:80
+msgid "Facebook key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:82
+msgid "Facebook Application ID"
+msgstr ""
+
+#: includes/aecore/social/settings.php:88
+msgid "Facebook secret key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:90
+msgid "Facebook Secret Key"
+msgstr ""
+
+#: includes/aecore/social/settings.php:97
+msgid "Google API"
+msgstr ""
+
+#: includes/aecore/social/settings.php:100
+msgid "Enabling this will allow users to log in via Google."
+msgstr ""
+
+#: includes/aecore/social/settings.php:107
+msgid "Google API "
+msgstr ""
+
+#: includes/aecore/social/settings.php:114
+msgid "Google key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:116
+msgid "Client ID"
+msgstr ""
+
+#: includes/aecore/social/settings.php:122
+msgid "Google Secret key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:124
+msgid "Google secret key"
+msgstr ""
+
+#: includes/aecore/social/settings.php:131
+msgid "LinkedIn API"
+msgstr ""
+
+#: includes/aecore/social/settings.php:134
+msgid "Enabling this will allow users to log in via LinkedIn."
+msgstr ""
+
+#: includes/aecore/social/settings.php:141
+msgid "LinkedIn API "
+msgstr ""
+
+#: includes/aecore/social/settings.php:148
+msgid "Consumer Key / API Key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:150
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: includes/aecore/social/settings.php:156
+msgid "Consumer Secret / Secret Key "
+msgstr ""
+
+#: includes/aecore/social/settings.php:158
+msgid "LinkedIn secret key"
+msgstr ""
+
+#: includes/aecore/social/settings.php:170
+msgid "General setting"
+msgstr ""
+
+#: includes/aecore/social/settings.php:178
+msgid "Social connect page"
+msgstr ""
+
+#: includes/aecore/social/settings.php:181
+msgid ""
+"You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+
+#: includes/aecore/social/settings.php:188
+msgid "Social connect page url "
+msgstr ""
+
+#: includes/aecore/social/settings.php:190
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr ""
+
+#: includes/aecore/social/settings.php:199
+msgid "Select User roles"
+msgstr ""
+
+#: includes/aecore/social/settings.php:202
+msgid "Select the user roles."
+msgstr ""
+
+#: includes/aecore/social/settings.php:210
+#: includes/aecore/social/settings.php:213
+#: includes/aecore/social/settings.php:214
+msgid "Select user roles"
+msgstr ""
+
+#: includes/aecore/social/settings.php:235
+msgid "Social login"
+msgstr ""
+
+#: includes/aecore/social/settings.php:236
+msgid "SOCIAL LOGIN"
+msgstr ""
+
+#: includes/aecore/social/settings.php:240
+msgid "Setup login by social network accounts"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:124
+#: includes/aecore/social/social_auth.php:131
+msgid "Username and password does not matched"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:150
+msgid "Login information is missing"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:153
+msgid "Please provide a valid email"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:174
+msgid "Can not authenticate user"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:176
+#: includes/aecore/social/social_auth.php:272
+msgid "Can't find Social ID"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:215
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr ""
+
+#: includes/aecore/social/social_auth.php:263
+msgid "Username is existed, please choose another one"
+msgstr ""
+
+#: includes/aecore/social/template.php:29
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Facebook account. "
+"<br />If you already have an account with %s, please log in using the form "
+"below to link it to your Facebook account. Otherwise, please enter an email "
+"address and a password on the form, and a username on the next page to "
+"create an account.<br />You will only do this step ONCE. Next time, you'll "
+"get logged in right away."
+msgstr ""
+
+#: includes/aecore/social/template.php:33 includes/aecore/social/twitter.php:17
+msgid "SIGN IN WITH TWITTER"
+msgstr ""
+
+#: includes/aecore/social/template.php:36
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Twitter account.<br /"
+">If you already have an account with %s, please log in using the form below "
+"to link it to your Twitter account. Otherwise, please enter an email address "
+"and a password on the form, and a username on the next page to create an "
+"account.<br > You will only do this step ONCE. Next time, you'll get logged "
+"in right away.</p>"
+msgstr ""
+
+#: includes/aecore/social/template.php:44
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: includes/aecore/social/template.php:51
+msgid ""
+"This seems to be your first time signing in using your Linkedin account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Linkedin  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: includes/aecore/social/template.php:58 mobile/page-login.php:121
+#: page-login.php:82 template-js/modal-authenticate.php:52
+msgid "Email"
+msgstr ""
+
+#: includes/aecore/social/template.php:59 mobile/page-login.php:50
+#: mobile/page-login.php:125 page-login.php:48 page-login.php:88
+#: template-js/modal-authenticate.php:16 template-js/modal-authenticate.php:58
+#: template-js/modal-edit-profile.php:29
+msgid "Password"
+msgstr ""
+
+#: includes/aecore/social/template.php:70 mobile/page-login.php:117
+#: page-login.php:78 template-js/modal-authenticate.php:48
+msgid "Username"
+msgstr ""
+
+#: includes/aecore/social/template.php:115
+msgid "author"
+msgstr ""
+
+#: includes/aecore/social/template.php:115
+msgid "subscriber"
+msgstr ""
+
+#: includes/aecore/social/template.php:115
+msgid "editor"
+msgstr ""
+
+#: includes/aecore/social/template.php:115
+msgid "contributor"
+msgstr ""
+
+#: includes/aecore/social/template.php:162
+#: template/single-place-details.php:109
+msgid "Facebook"
+msgstr ""
+
+#: includes/aecore/social/template.php:170
+msgid "Google"
+msgstr ""
+
+#: includes/aecore/social/template.php:178 includes/widgets.php:822
+#: template/single-place-details.php:119
+msgid "Twitter"
+msgstr ""
+
+#: includes/aecore/social/template.php:186 includes/widgets.php:816
+msgid "Linkedin"
+msgstr ""
+
+#: includes/aecore/social/twitter.php:17
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: includes/aecore/social/twitter.php:91
+msgid "Conection with twitter Failed"
+msgstr ""
+
+#: includes/aecore/social/twitter.php:97
+msgid "Error Receiving Request Token"
+msgstr ""
+
+#: includes/aecore/template-js/add-pack-form.php:7
+#: includes/aecore/template/add-pack-form.php:4
+msgid "Enter a name for your badge"
+msgstr ""
+
+#: includes/aecore/template-js/add-pack-form.php:12
+#: includes/aecore/template/add-pack-form.php:9
+msgid "Point"
+msgstr ""
+
+#: includes/aecore/template.php:176 includes/aecore/template.php:219
+#: includes/aecore/template.php:262 includes/template.php:709
+#: includes/widgets.php:429 includes/widgets.php:592 mobile/functions.php:41
+#: single-place.php:71
+msgid "Load more"
+msgstr ""
+
+#: includes/aecore/template/add-pack-form.php:20
+msgid "Add badge"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:24 template-js/modal-claim.php:61
+#: template/single-place-breadcrumb.php:85
+msgid "Approve"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:27
+msgid "Decline"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:39
+#: mobile/template/profile-place.php:16 template/profile-places.php:23
+msgid "Pending"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:42
+msgid "Confirmed"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:45
+msgid "Failed"
+msgstr ""
+
+#: includes/aecore/template/order-item.php:66
+msgid " by "
+msgstr ""
+
+#: includes/aecore/template/order-item.php:78
+#, php-format
+msgid "This post has been deleted by %s"
+msgstr ""
+
+#: includes/aecore/template/post-item.php:11
+#, php-format
+msgid "%d points"
+msgstr ""
+
+#: includes/aecore/template/user-item.php:61
+msgid "Comments"
+msgstr ""
+
+#: includes/aecore/wc_integration/class-wc-integrate.php:80
+#: mobile/template/post-place-step1.php:55 template/post-place-step1.php:75
+#: template/post-place-step4.php:38 template/post-place-step4.php:52
+#: template/post-place-step4.php:67
+msgid "Select"
+msgstr ""
+
+#: includes/aecore/wc_integration/payment/WC_Integrate_Visitor.php:47
+msgid "Got error, please contact site administrator"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:213
+#: includes/class-tgm-plugin-activation.php:1651
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:556
+#: includes/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1304
+#: includes/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1326
+#: includes/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1629
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1947
+msgid "Install package not available."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1949
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1950
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1951
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1963
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2077
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2078
+#: includes/class-tgm-plugin-activation.php:2087
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2078
+#: includes/class-tgm-plugin-activation.php:2087
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2079
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2080
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2084
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2085
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2088
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2089
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/customization.php:153
+msgid "File is not exist"
+msgstr ""
+
+#: includes/events.php:15
+msgid "event"
+msgstr ""
+
+#: includes/events.php:17
+msgid "Add New event"
+msgstr ""
+
+#: includes/events.php:18
+msgid "Edit event"
+msgstr ""
+
+#: includes/events.php:19
+msgid "New event"
+msgstr ""
+
+#: includes/events.php:20
+msgid "View event"
+msgstr ""
+
+#: includes/events.php:21
+msgid "Search Events"
+msgstr ""
+
+#: includes/events.php:22
+msgid "No Events found"
+msgstr ""
+
+#: includes/events.php:23
+msgid "No Events found in Trash"
+msgstr ""
+
+#: includes/events.php:24
+msgid "Parent event:"
+msgstr ""
+
+#: includes/events.php:224 includes/places.php:844
+msgid ""
+"Your account is pending. You have to activate your account to continue this "
+"step."
+msgstr ""
+
+#: includes/events.php:231
+msgid "You have to add event for a listing."
+msgstr ""
+
+#: includes/events.php:280
+msgid "Update event successful!"
+msgstr ""
+
+#: includes/events.php:280
+msgid "Create event successfull!"
+msgstr ""
+
+#: includes/events.php:314
+msgid "You have to login to create event."
+msgstr ""
+
+#: includes/events.php:318
+msgid "Permission denied."
+msgstr ""
+
+#: includes/events.php:336 includes/events.php:350
+msgid "You have reached the maximum number of event posts."
+msgstr ""
+
+#: includes/home.php:24 includes/template.php:635
+#: includes/vc_blocks/areas.php:50 includes/vc_blocks/blog.php:64
+#: includes/vc_blocks/category.php:53 includes/vc_blocks/feature.php:59
+#: includes/vc_blocks/review.php:44 includes/vc_blocks/service.php:63
+#: includes/vc_blocks/testimonial.php:43
+msgid "Default Title"
+msgstr ""
+
+#: includes/home.php:570 page-search-location.php:27
+msgid "Enter keyword ..."
+msgstr ""
+
+#: includes/home.php:575 mobile/page-search-location.php:26
+#: page-search-location.php:31
+msgid "Address ..."
+msgstr ""
+
+#: includes/home.php:585 mobile/page-search-location.php:36
+#: page-place-pending-html.php:23 page-search-location-html.php:40
+#: page-search-location.php:41 template/list-pending-place.php:13
+#: template/place-filter.php:32
+msgid "All categories"
+msgstr ""
+
+#: includes/home.php:597 mobile/page-search-location.php:49
+#: page-search-location-html.php:53 page-search-location.php:54
+msgid "All Location"
+msgstr ""
+
+#: includes/home.php:606 mobile/page-search-location.php:69
+#: page-search-location.php:74
+msgid "Search"
+msgstr ""
+
+#: includes/mailing.php:43
+msgid "New Place Submission Announcement"
+msgstr ""
+
+#: includes/mailing.php:73
+msgid "New pending Event"
+msgstr ""
+
+#: includes/members.php:61
+msgid "This email address was not found."
+msgstr ""
+
+#: includes/members.php:80
+msgid "Username is invalid"
+msgstr ""
+
+#: includes/members.php:129 includes/members.php:132 includes/members.php:138
+msgid "Invalid key"
+msgstr ""
+
+#: includes/members.php:161
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr ""
+
+#: includes/members.php:191
+msgid "There is a request to reset the password for the following account:"
+msgstr ""
+
+#: includes/members.php:193
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/members.php:194
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/members.php:195
+msgid "To reset your password, visit the following link:"
+msgstr ""
+
+#: includes/members.php:213
+msgid "The email could not be sent."
+msgstr ""
+
+#: includes/members.php:213
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: includes/packages.php:11 includes/packages.php:12
+msgid "Pack"
+msgstr ""
+
+#: includes/packages.php:13 includes/places.php:26 includes/testimonials.php:16
+msgid "Add New"
+msgstr ""
+
+#: includes/packages.php:14
+msgid "Add New Pack"
+msgstr ""
+
+#: includes/packages.php:15
+msgid "Edit Pack"
+msgstr ""
+
+#: includes/packages.php:16
+msgid "New Pack"
+msgstr ""
+
+#: includes/packages.php:17
+msgid "All Packs"
+msgstr ""
+
+#: includes/packages.php:18
+msgid "View Pack"
+msgstr ""
+
+#: includes/packages.php:19
+msgid "Search Packs"
+msgstr ""
+
+#: includes/packages.php:20
+msgid "No Pack found"
+msgstr ""
+
+#: includes/packages.php:21
+msgid "NoPacks found in Trash"
+msgstr ""
+
+#: includes/packages.php:23
+msgid "Packs"
+msgstr ""
+
+#: includes/places.php:27
+msgid "Add New Place"
+msgstr ""
+
+#: includes/places.php:28
+msgid "Edit Place"
+msgstr ""
+
+#: includes/places.php:29
+msgid "New Place"
+msgstr ""
+
+#: includes/places.php:30
+msgid "All Places"
+msgstr ""
+
+#: includes/places.php:31
+msgid "View Place"
+msgstr ""
+
+#: includes/places.php:32
+msgid "Search Places"
+msgstr ""
+
+#: includes/places.php:33
+msgid "No Place found"
+msgstr ""
+
+#: includes/places.php:34
+msgid "NoPlaces found in Trash"
+msgstr ""
+
+#: includes/places.php:63 template/single-place-breadcrumb.php:92
+msgid "Reject"
+msgstr ""
+
+#: includes/places.php:73 template/single-place-breadcrumb.php:100
+msgid "Archive"
+msgstr ""
+
+#: includes/places.php:97
+msgid "Search Category"
+msgstr ""
+
+#: includes/places.php:98
+msgid "Popular Category"
+msgstr ""
+
+#: includes/places.php:99
+msgid "All Category"
+msgstr ""
+
+#: includes/places.php:100 includes/places.php:101
+msgid "Parent place category"
+msgstr ""
+
+#: includes/places.php:102
+msgid "Edit place category"
+msgstr ""
+
+#: includes/places.php:103
+msgid "Update place category"
+msgstr ""
+
+#: includes/places.php:104
+msgid "Add New place category"
+msgstr ""
+
+#: includes/places.php:105
+msgid "New place category Name"
+msgstr ""
+
+#: includes/places.php:106
+msgid "Add or remove Category"
+msgstr ""
+
+#: includes/places.php:107
+msgid "Choose from most used enginetheme "
+msgstr ""
+
+#: includes/places.php:108 includes/vc_blocks/blog.php:76
+#: includes/vc_blocks/place.php:108
+msgid "Category"
+msgstr ""
+
+#: includes/places.php:144
+msgid "Search Locations"
+msgstr ""
+
+#: includes/places.php:145
+msgid "Popular Locations"
+msgstr ""
+
+#: includes/places.php:146
+msgid "All Locations"
+msgstr ""
+
+#: includes/places.php:147 includes/places.php:148
+msgid "Parent location"
+msgstr ""
+
+#: includes/places.php:149
+msgid "Edit location"
+msgstr ""
+
+#: includes/places.php:150
+msgid "Update location"
+msgstr ""
+
+#: includes/places.php:151
+msgid "Add New location"
+msgstr ""
+
+#: includes/places.php:152
+msgid "New location Name"
+msgstr ""
+
+#: includes/places.php:153
+msgid "Add or remove Locations"
+msgstr ""
+
+#: includes/places.php:154 includes/places.php:200
+msgid "Choose from most used enginetheme"
+msgstr ""
+
+#: includes/places.php:192
+msgid "Search Place Tags"
+msgstr ""
+
+#: includes/places.php:193
+msgid "Popular Place Tags"
+msgstr ""
+
+#: includes/places.php:194
+msgid "All Place Tags"
+msgstr ""
+
+#: includes/places.php:195
+msgid "Edit Place Tag"
+msgstr ""
+
+#: includes/places.php:196
+msgid "Update Place Tag"
+msgstr ""
+
+#: includes/places.php:197
+msgid "Add New Place Tag"
+msgstr ""
+
+#: includes/places.php:198
+msgid "New Place Tag Name"
+msgstr ""
+
+#: includes/places.php:199
+msgid "Add or remove Place Tag"
+msgstr ""
+
+#: includes/places.php:201
+msgid "Place Tag"
+msgstr ""
+
+#: includes/places.php:779
+msgid "No Message"
+msgstr ""
+
+#: includes/places.php:785 template/list-pending-place.php:24
+#: template/loop-notification.php:7 template/loop-place-pending.php:10
+msgid "Unpaid"
+msgstr ""
+
+#: includes/places.php:787 template/list-pending-place.php:27
+#: template/loop-notification.php:9 template/loop-place-pending.php:12
+msgid "Paid"
+msgstr ""
+
+#: includes/places.php:789 mobile/page-profile.php:163 page-profile.php:154
+#: template/loop-notification.php:11 template/loop-place-pending.php:14
+msgid "Free"
+msgstr ""
+
+#: includes/places.php:842
+msgid "Please open a new tab and confirm to complete the place submission"
+msgstr ""
+
+#: includes/places.php:974
+msgid "Submit place successfull."
+msgstr ""
+
+#: includes/places.php:985
+msgid "Update place successfull!"
+msgstr ""
+
+#: includes/places.php:1056
+#, php-format
+msgid "%s places"
+msgstr ""
+
+#: includes/places.php:1057 search.php:54 template/place-search-radius.php:14
+#, php-format
+msgid "%s place"
+msgstr ""
+
+#: includes/places.php:1065 template/section-status.php:23
+#, php-format
+msgid "%d places in \"%s\""
+msgstr ""
+
+#: includes/places.php:1066 template/section-status.php:25
+#, php-format
+msgid "%d place in \"%s\""
+msgstr ""
+
+#: includes/places.php:1275
+msgid "Cannot create a place with an empty package."
+msgstr ""
+
+#: includes/places.php:1279
+msgid "You should enter short description for your place."
+msgstr ""
+
+#: includes/places.php:1283
+msgid "Your place should have a title."
+msgstr ""
+
+#: includes/places.php:1287
+msgid "An ad should has a category!"
+msgstr ""
+
+#: includes/places.php:1291
+msgid "An ad should has a location!"
+msgstr ""
+
+#: includes/places.php:1295
+msgid "You should enter a valid address for your place!"
+msgstr ""
+
+#: includes/places.php:1298
+msgid "You have to upload at least one photo!"
+msgstr ""
+
+#: includes/places.php:1326
+msgid "You have selected an invalid plan."
+msgstr ""
+
+#: includes/post-meta-box.php:50
+msgid "Places Information"
+msgstr ""
+
+#: includes/post-meta-box.php:180
+msgid "Packages:"
+msgstr ""
+
+#: includes/post-meta-box.php:206
+msgid "Claim Request:"
+msgstr ""
+
+#: includes/post-meta-box.php:215
+msgid "Make this place is claimable for users."
+msgstr ""
+
+#: includes/post-meta-box.php:223
+msgid "Expired Date:"
+msgstr ""
+
+#: includes/post-meta-box.php:226
+msgid "Specify a date when ad will be archived."
+msgstr ""
+
+#: includes/post-meta-box.php:231
+msgid "Address details:"
+msgstr ""
+
+#: includes/post-meta-box.php:234
+msgid "This address is used for contact purpose."
+msgstr ""
+
+#: includes/post-meta-box.php:235
+msgid "latitude:"
+msgstr ""
+
+#: includes/post-meta-box.php:237
+msgid "longitude:"
+msgstr ""
+
+#: includes/post-meta-box.php:243 template-js/modal-edit-place.php:55
+#: template-js/modal-edit-profile.php:51 template/post-place-step3.php:118
+msgid "FACEBOOK"
+msgstr ""
+
+#: includes/post-meta-box.php:246 template/post-place-step3.php:119
+msgid "URL to your shop's Facebook page"
+msgstr ""
+
+#: includes/post-meta-box.php:251 template-js/modal-edit-place.php:50
+#: template/post-place-step3.php:105
+msgid "WEBSITE"
+msgstr ""
+
+#: includes/post-meta-box.php:254 template/post-place-step3.php:106
+msgid "Your place's website url"
+msgstr ""
+
+#: includes/post-meta-box.php:259 template-js/modal-edit-place.php:60
+#: template/post-place-step3.php:131
+msgid "GOOGLE PLUS"
+msgstr ""
+
+#: includes/post-meta-box.php:262 template/post-place-step3.php:132
+msgid "Your place's goole plus url"
+msgstr ""
+
+#: includes/post-meta-box.php:267 template-js/modal-claim.php:48
+#: template-js/modal-edit-place.php:46 template-js/modal-edit-profile.php:47
+#: template/post-place-step3.php:91
+msgid "PHONE"
+msgstr ""
+
+#: includes/post-meta-box.php:270 template/post-place-step3.php:92
+msgid "Your place's contact phone"
+msgstr ""
+
+#: includes/reviews.php:130
+msgid "You have to login to post review."
+msgstr ""
+
+#: includes/reviews.php:173
+msgid "You can only rate a place for one time."
+msgstr ""
+
+#: includes/reviews.php:221
+msgid "Your place have a new comment!"
+msgstr ""
+
+#: includes/reviews.php:303 includes/reviews.php:640 includes/reviews.php:760
+msgid "Please fill in required field."
+msgstr ""
+
+#: includes/reviews.php:313
+msgid "Your review has been submitted."
+msgstr ""
+
+#: includes/reviews.php:647 includes/reviews.php:767
+msgid "You have to login."
+msgstr ""
+
+#: includes/reviews.php:656
+msgid "Love it."
+msgstr ""
+
+#: includes/reviews.php:664
+msgid "Added to favorite."
+msgstr ""
+
+#: includes/reviews.php:665 template/single-place-option-list.php:33
+msgid "Remove item from favorite list"
+msgstr ""
+
+#: includes/reviews.php:692
+msgid "Remove favorite successfull."
+msgstr ""
+
+#: includes/reviews.php:694
+msgid "Cannot remove comment."
+msgstr ""
+
+#: includes/reviews.php:787
+msgid "You've reported to admins successfully."
+msgstr ""
+
+#: includes/taxonomy-image.php:32 includes/taxonomy-image.php:52
+#: includes/taxonomy-image.php:168
+msgid "Image"
+msgstr ""
+
+#: includes/taxonomy-image.php:35 includes/taxonomy-image.php:54
+#: includes/taxonomy-image.php:205
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/taxonomy-image.php:55 includes/taxonomy-image.php:206
+msgid "Remove image"
+msgstr ""
+
+#: includes/taxonomy-image.php:185
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/template.php:87
+msgid "No specify serve day"
+msgstr ""
+
+#: includes/template.php:108
+msgid "Every day"
+msgstr ""
+
+#: includes/template.php:112
+#, php-format
+msgid "From %s to %s"
+msgstr ""
+
+#: includes/template.php:548 includes/template.php:559
+msgid "Delete"
+msgstr ""
+
+#: includes/template.php:551
+msgid "click to select a featured image"
+msgstr ""
+
+#: includes/template.php:774
+msgid "Refresh"
+msgstr ""
+
+#: includes/template.php:816
+#, php-format
+msgid "See all %s photos"
+msgstr ""
+
+#: includes/testimonials.php:14 includes/testimonials.php:15
+msgid "Testimonial"
+msgstr ""
+
+#: includes/testimonials.php:17
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/testimonials.php:18
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/testimonials.php:19
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/testimonials.php:20
+msgid "All Testimonials"
+msgstr ""
+
+#: includes/testimonials.php:21
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/testimonials.php:22
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/testimonials.php:23
+msgid "No testimon found"
+msgstr ""
+
+#: includes/testimonials.php:24
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: includes/testimonials.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: includes/theme.php:57
+msgid "This place has been claimed."
+msgstr ""
+
+#: includes/theme.php:63
+msgid "Your request has been sent successfully, we'll contact you shortly!"
+msgstr ""
+
+#: includes/theme.php:68 includes/theme.php:92 includes/theme.php:111
+msgid "An error occurs, try again later!"
+msgstr ""
+
+#: includes/theme.php:87
+msgid "This claim has been approved successfully!"
+msgstr ""
+
+#: includes/theme.php:106
+msgid "This claim has been rejected successfully!"
+msgstr ""
+
+#: includes/theme.php:259
+msgid "Please fill out all fields required."
+msgstr ""
+
+#: includes/theme.php:260
+msgid "Please enter your user name."
+msgstr ""
+
+#: includes/theme.php:262
+msgid "Please enter a valid username."
+msgstr ""
+
+#: includes/theme.php:263
+msgid "Please enter the same password as above."
+msgstr ""
+
+#: includes/theme.php:265
+msgid "You must accept the term & privacy."
+msgstr ""
+
+#: includes/theme.php:268
+msgid "You must be logged in to perform this action."
+msgstr ""
+
+#: includes/theme.php:269
+msgid "You don't have enought points to perform this action."
+msgstr ""
+
+#: includes/theme.php:270
+msgid "Create Topic"
+msgstr ""
+
+#: includes/theme.php:271
+msgid "Upload Images"
+msgstr ""
+
+#: includes/theme.php:272
+msgid "No file chosen."
+msgstr ""
+
+#: includes/theme.php:273
+msgid "Please insert at least one tag."
+msgstr ""
+
+#: includes/theme.php:274
+msgid "Add comment"
+msgstr ""
+
+#: includes/theme.php:276
+msgid "Sign Up"
+msgstr ""
+
+#: includes/theme.php:277 template-js/modal-authenticate.php:6
+msgid "Sign In"
+msgstr ""
+
+#: includes/theme.php:279
+msgid "Best answer"
+msgstr ""
+
+#: includes/theme.php:280
+msgid "Forgot Password"
+msgstr ""
+
+#: includes/theme.php:281
+msgid "You have made some changes which you might want to save."
+msgstr ""
+
+#: includes/theme.php:282
+msgid ""
+"You denied the request for Geolocation. To use this function, please enable "
+"it."
+msgstr ""
+
+#: includes/theme.php:283
+msgid "Location information is unavailable."
+msgstr ""
+
+#: includes/theme.php:284
+msgid "The request to get user location timed out."
+msgstr ""
+
+#: includes/theme.php:285
+msgid "An unknown error occurred."
+msgstr ""
+
+#: includes/theme.php:286
+msgid "You cannot comment on pending places."
+msgstr ""
+
+#: includes/theme.php:290
+msgid "Updating..."
+msgstr ""
+
+#: includes/theme.php:291 template-js/modal-edit-profile.php:74
+msgid "Update Profile"
+msgstr ""
+
+#: includes/theme.php:721
+msgid "Km"
+msgstr ""
+
+#: includes/theme.php:788
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted ad is pending until payment."
+msgstr ""
+
+#: includes/theme.php:937
+msgid "Get the nearby place list failed!"
+msgstr ""
+
+#: includes/upgrade-db.php:65
+msgid "You updated \"et_featured\" meta key successfull."
+msgstr ""
+
+#: includes/upgrade-db.php:69
+msgid "You have updated \"et_featured\" meta key to all places."
+msgstr ""
+
+#: includes/upgrade-db.php:71
+msgid "You updated \"et_featured\" meta key failed."
+msgstr ""
+
+#: includes/upgrade-db.php:129
+msgid "You updated \"rating_score\" meta key successfull."
+msgstr ""
+
+#: includes/upgrade-db.php:134
+msgid "You have updated \"rating_score\" meta key to all places."
+msgstr ""
+
+#: includes/upgrade-db.php:137
+msgid "You updated \"rating_score\" meta key failed."
+msgstr ""
+
+#: includes/vc_blocks/areas.php:18
+msgid "DE AREAS"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:39 includes/widgets.php:1361
+msgid "DE Areas"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:42 includes/vc_blocks/blog.php:56
+#: includes/vc_blocks/category.php:45 includes/vc_blocks/feature.php:44
+#: includes/vc_blocks/place.php:81 includes/vc_blocks/review.php:36
+#: includes/vc_blocks/service.php:48 includes/vc_blocks/testimonial.php:35
+msgid "DirectoryEngine"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:55 includes/vc_blocks/blog.php:90
+#: includes/vc_blocks/category.php:66 includes/vc_blocks/place.php:122
+#: includes/vc_blocks/review.php:56
+msgid "Style"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:63
+msgid "Location ID. Each ID value is separated by a comma (e.g., 1,2,3)"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:71
+msgid "Number of areas"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:85 includes/vc_blocks/category.php:80
+#: includes/widgets.php:156 includes/widgets.php:1445
+msgid "Hide empty"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:98 includes/vc_blocks/blog.php:96
+#: includes/vc_blocks/category.php:93 includes/vc_blocks/feature.php:70
+#: includes/vc_blocks/place.php:142 includes/vc_blocks/review.php:69
+#: includes/vc_blocks/service.php:81 includes/vc_blocks/testimonial.php:54
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:100 includes/vc_blocks/blog.php:98
+#: includes/vc_blocks/category.php:95 includes/vc_blocks/feature.php:72
+#: includes/vc_blocks/place.php:144 includes/vc_blocks/review.php:71
+#: includes/vc_blocks/service.php:83 includes/vc_blocks/testimonial.php:56
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc_blocks/areas.php:104 includes/vc_blocks/blog.php:102
+#: includes/vc_blocks/category.php:99 includes/vc_blocks/feature.php:76
+#: includes/vc_blocks/place.php:148 includes/vc_blocks/review.php:75
+#: includes/vc_blocks/service.php:87 includes/vc_blocks/testimonial.php:60
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/vc_blocks/areas.php:106 includes/vc_blocks/blog.php:104
+#: includes/vc_blocks/category.php:101 includes/vc_blocks/feature.php:78
+#: includes/vc_blocks/place.php:150 includes/vc_blocks/review.php:77
+#: includes/vc_blocks/service.php:89 includes/vc_blocks/testimonial.php:62
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a custom CSS here."
+msgstr ""
+
+#: includes/vc_blocks/blog.php:18
+msgid "BLOG BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/blog.php:53
+msgid "DE BLOG"
+msgstr ""
+
+#: includes/vc_blocks/blog.php:69 includes/vc_blocks/place.php:129
+#: includes/vc_blocks/review.php:49 includes/vc_blocks/testimonial.php:48
+msgid "Number Posts"
+msgstr ""
+
+#: includes/vc_blocks/blog.php:83 includes/vc_blocks/place.php:136
+#: includes/vc_blocks/review.php:63
+msgid "Paginate"
+msgstr ""
+
+#: includes/vc_blocks/category.php:19
+msgid "CATEGORY BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/category.php:42
+msgid "DE Category"
+msgstr ""
+
+#: includes/vc_blocks/category.php:59
+msgid "Number of category"
+msgstr ""
+
+#: includes/vc_blocks/feature.php:19
+msgid "CONTACT FORM"
+msgstr ""
+
+#: includes/vc_blocks/feature.php:41
+msgid "DE Feature"
+msgstr ""
+
+#: includes/vc_blocks/feature.php:49 includes/vc_blocks/service.php:52
+msgid "Icon"
+msgstr ""
+
+#: includes/vc_blocks/feature.php:64
+msgid "Feature Content"
+msgstr ""
+
+#: includes/vc_blocks/place.php:18
+msgid "PLACE BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/place.php:78
+msgid "DE Place"
+msgstr ""
+
+#: includes/vc_blocks/place.php:94
+msgid "Query"
+msgstr ""
+
+#: includes/vc_blocks/place.php:155
+msgid "Filter bar"
+msgstr ""
+
+#: includes/vc_blocks/place.php:162
+msgid "Default display"
+msgstr ""
+
+#: includes/vc_blocks/review.php:18
+msgid "REVIEW BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/review.php:33 includes/widgets.php:619
+msgid "DE REVIEW"
+msgstr ""
+
+#: includes/vc_blocks/service.php:19
+msgid "SERVICE BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/service.php:26
+msgid "More"
+msgstr ""
+
+#: includes/vc_blocks/service.php:45
+msgid "DE Service"
+msgstr ""
+
+#: includes/vc_blocks/service.php:68
+msgid "Service Content"
+msgstr ""
+
+#: includes/vc_blocks/service.php:75
+msgid "More Link"
+msgstr ""
+
+#: includes/vc_blocks/testimonial.php:18
+msgid "TESTIMONIAL BLOCK"
+msgstr ""
+
+#: includes/vc_blocks/testimonial.php:32
+msgid "DE TESTIMONIAL"
+msgstr ""
+
+#: includes/widgets.php:15
+msgid "DE Map"
+msgstr ""
+
+#: includes/widgets.php:58
+msgid "Directory map"
+msgstr ""
+
+#: includes/widgets.php:76
+msgid "A list of categories"
+msgstr ""
+
+#: includes/widgets.php:77
+msgid "DE Categories"
+msgstr ""
+
+#: includes/widgets.php:128 includes/widgets.php:366 includes/widgets.php:567
+#: includes/widgets.php:755 includes/widgets.php:861 includes/widgets.php:987
+#: includes/widgets.php:1325 includes/widgets.php:1424
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:132
+msgid "Number of categories:"
+msgstr ""
+
+#: includes/widgets.php:136 includes/widgets.php:406 includes/widgets.php:577
+#: includes/widgets.php:765 includes/widgets.php:1329
+msgid "Style:"
+msgstr ""
+
+#: includes/widgets.php:138 includes/widgets.php:408 includes/widgets.php:579
+#: includes/widgets.php:767 includes/widgets.php:1331
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets.php:139 includes/widgets.php:409 includes/widgets.php:580
+#: includes/widgets.php:768 includes/widgets.php:1332
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets.php:143 includes/widgets.php:1432
+msgid "Orderby:"
+msgstr ""
+
+#: includes/widgets.php:145 includes/widgets.php:1434
+msgid "Name"
+msgstr ""
+
+#: includes/widgets.php:146 includes/widgets.php:1435
+msgid "Id"
+msgstr ""
+
+#: includes/widgets.php:147 includes/widgets.php:1436
+msgid "Count"
+msgstr ""
+
+#: includes/widgets.php:148 includes/widgets.php:1437
+msgid "Slug"
+msgstr ""
+
+#: includes/widgets.php:153 includes/widgets.php:1442
+msgid "Show post counts"
+msgstr ""
+
+#: includes/widgets.php:177 includes/widgets.php:178
+msgid "DE List Places"
+msgstr ""
+
+#: includes/widgets.php:318 includes/widgets.php:951
+msgid "Empty post with query"
+msgstr ""
+
+#: includes/widgets.php:370 includes/widgets.php:571
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets.php:381
+msgid "Select category"
+msgstr ""
+
+#: includes/widgets.php:388
+msgid "Location:"
+msgstr ""
+
+#: includes/widgets.php:399
+msgid "Select location"
+msgstr ""
+
+#: includes/widgets.php:413
+msgid "Query:"
+msgstr ""
+
+#: includes/widgets.php:415
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets.php:416
+msgid "Has Event"
+msgstr ""
+
+#: includes/widgets.php:420 includes/widgets.php:584 includes/widgets.php:760
+#: includes/widgets.php:991 includes/widgets.php:1336
+msgid "Number of posts"
+msgstr ""
+
+#: includes/widgets.php:425 includes/widgets.php:588
+msgid "Paginate:"
+msgstr ""
+
+#: includes/widgets.php:428 includes/widgets.php:591
+msgid "Page paginate"
+msgstr ""
+
+#: includes/widgets.php:451
+msgid "DE Recent Blog"
+msgstr ""
+
+#: includes/widgets.php:618
+msgid "De Review Widget"
+msgstr ""
+
+#: includes/widgets.php:630 includes/widgets.php:746
+msgid "REVIEWS"
+msgstr ""
+
+#: includes/widgets.php:774
+msgid "Show pagination"
+msgstr ""
+
+#: includes/widgets.php:795
+msgid "DE Social Widget"
+msgstr ""
+
+#: includes/widgets.php:819
+msgid "FaceBook"
+msgstr ""
+
+#: includes/widgets.php:825 template/single-place-details.php:114
+msgid "Google plus"
+msgstr ""
+
+#: includes/widgets.php:828
+msgid "Vimeo"
+msgstr ""
+
+#: includes/widgets.php:857
+msgid "Keep in touch"
+msgstr ""
+
+#: includes/widgets.php:882
+msgid "DE Testimonial Widget"
+msgstr ""
+
+#: includes/widgets.php:1026
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1042
+msgid "Top Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1058
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1075
+msgid "Top Fullwidth Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1092
+msgid "Bottom Fullwidth Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1108
+msgid "Mobile Top Sidebar"
+msgstr ""
+
+#: includes/widgets.php:1124
+msgid "Single"
+msgstr ""
+
+#: includes/widgets.php:1141
+msgid "Footer 1"
+msgstr ""
+
+#: includes/widgets.php:1158
+msgid "Footer 2"
+msgstr ""
+
+#: includes/widgets.php:1176
+msgid "Footer 3"
+msgstr ""
+
+#: includes/widgets.php:1194
+msgid "Footer 4"
+msgstr ""
+
+#: includes/widgets.php:1221 includes/widgets.php:1222
+msgid "DE Nearby"
+msgstr ""
+
+#: includes/widgets.php:1272
+msgid "Please share your location to view this widget content"
+msgstr ""
+
+#: includes/widgets.php:1340
+msgid "Radius"
+msgstr ""
+
+#: includes/widgets.php:1360
+msgid "A list of areas"
+msgstr ""
+
+#: includes/widgets.php:1428
+msgid "Number of areas:"
+msgstr ""
+
+#: index.php:9 mobile/category.php:10 mobile/index.php:10 mobile/single.php:11
+msgid "Blog"
+msgstr ""
+
+#: mobile/404.php:14
+msgid "Back to home page"
+msgstr ""
+
+#: mobile/author.php:43
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: mobile/author.php:50 mobile/author.php:53 mobile/page-profile.php:60
+#: mobile/page-profile.php:63
+msgid "Logout"
+msgstr ""
+
+#: mobile/author.php:97
+#, php-format
+msgid "%s review"
+msgstr ""
+
+#: mobile/author.php:118
+#, php-format
+msgid "%s picture"
+msgstr ""
+
+#: mobile/author.php:195 mobile/template/pending-places.php:44
+#: mobile/template/profile-event.php:101 mobile/template/publish-places.php:43
+#: template/author-events.php:72 template/profile-events.php:76
+msgid "There are no events yet."
+msgstr ""
+
+#: mobile/author.php:246 mobile/template/profile-review.php:52
+#: template/profile-reviews.php:59
+msgid "Currently, there are not review yet."
+msgstr ""
+
+#: mobile/author.php:300 mobile/template/profile-togo.php:46
+#: template/profile-togos.php:49
+msgid "Currently, there are not favorite yet."
+msgstr ""
+
+#: mobile/comments.php:18 template/comment-place.php:19
+#, php-format
+msgid "%d REVIEWS & "
+msgstr ""
+
+#: mobile/comments.php:20 template/comment-place.php:21
+#, php-format
+msgid "%d REVIEW & "
+msgstr ""
+
+#: mobile/comments.php:25 template/comment-place.php:26
+#, php-format
+msgid "%d COMMENT"
+msgstr ""
+
+#: mobile/comments.php:27 template/comment-place.php:28
+#, php-format
+msgid "%d COMMENTS"
+msgstr ""
+
+#: mobile/comments.php:40 template/comment-place.php:42
+msgid "&larr; Older Reviews"
+msgstr ""
+
+#: mobile/comments.php:41 template/comment-place.php:43
+msgid "Newer Reviews &rarr;"
+msgstr ""
+
+#: mobile/comments.php:55 template/comment-blog.php:28
+#: template/comment-place.php:57
+msgid "Comment"
+msgstr ""
+
+#: mobile/comments.php:66 template/comment-place.php:67
+msgid "ADD REPLY"
+msgstr ""
+
+#: mobile/comments.php:67 template/comment-blog.php:40
+#: template/comment-place.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: mobile/comments.php:68 template/comment-place.php:69
+msgid "CANCEL"
+msgstr ""
+
+#: mobile/comments.php:69 mobile/comments.php:112 mobile/page-login.php:184
+#: mobile/page-reset-pass.php:48 template/comment-blog.php:42
+#: template/comment-place.php:70 template/comment-place.php:119
+msgid "SUBMIT"
+msgstr ""
+
+#: mobile/comments.php:88 template/comment-place.php:90
+msgid "ADD REVIEW"
+msgstr ""
+
+#: mobile/comments.php:88 template/comment-place.php:90
+msgid "ADD COMMENT"
+msgstr ""
+
+#: mobile/comments.php:94 template/comment-place.php:98
+msgid "Rate to review this place or just leave a comment."
+msgstr ""
+
+#: mobile/comments.php:101 template/comment-place.php:106
+msgid "REVIEW"
+msgstr ""
+
+#: mobile/comments.php:101 template/comment-place.php:106
+msgid "COMMENT"
+msgstr ""
+
+#: mobile/comments.php:124
+#, php-format
+msgid ""
+"YOU MUST <a class=\"authenticate\" href=\"%s\">LOGIN</a> TO SUBMIT A REVIEW"
+msgstr ""
+
+#: mobile/comments.php:171
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp;Reply"
+msgstr ""
+
+#: mobile/comments.php:195 template/comment-place.php:209
+msgid "Waiting for approval"
+msgstr ""
+
+#: mobile/header.php:112
+msgid "Nearby"
+msgstr ""
+
+#: mobile/header.php:133
+msgid ""
+"Please confirm your email address to complete your registration process."
+msgstr ""
+
+#: mobile/header.php:157
+msgid "login"
+msgstr ""
+
+#: mobile/page-cancel-payment.php:8 page-cancel-payment.php:11
+msgid "Your order was cancelled"
+msgstr ""
+
+#: mobile/page-cancel-payment.php:9 page-cancel-payment.php:12
+msgid ""
+"It seems that you are busy at this moment, so order it again when you're "
+"free."
+msgstr ""
+
+#: mobile/page-cancel-payment.php:10
+msgid "BACK TO HOMEPAGE"
+msgstr ""
+
+#: mobile/page-list-reviews.php:16
+#, php-format
+msgid "%d Reviews"
+msgstr ""
+
+#: mobile/page-list-user.php:22 page-list-user.php:19
+#, php-format
+msgid "%s User"
+msgstr ""
+
+#: mobile/page-list-user.php:25 page-list-user.php:22
+#, php-format
+msgid "%s Users"
+msgstr ""
+
+#: mobile/page-list-user.php:36 page-list-user.php:50
+msgid "Keyword"
+msgstr ""
+
+#: mobile/page-list-user.php:62 page-list-user.php:66
+msgid "0 user are found"
+msgstr ""
+
+#: mobile/page-login.php:28
+msgid "Login"
+msgstr ""
+
+#: mobile/page-login.php:46 page-login.php:44
+#: template-js/modal-authenticate.php:12
+msgid "Username or Email"
+msgstr ""
+
+#: mobile/page-login.php:61 page-login.php:55 page-login.php:104
+#: template-js/modal-authenticate.php:26 template-js/modal-authenticate.php:76
+msgid "Sign up"
+msgstr ""
+
+#: mobile/page-login.php:81 page-login.php:50
+#: template-js/modal-authenticate.php:18
+msgid "Forgot password"
+msgstr ""
+
+#: mobile/page-login.php:99
+msgid "Register"
+msgstr ""
+
+#: mobile/page-login.php:129
+msgid "Retype  Password"
+msgstr ""
+
+#: mobile/page-login.php:140
+msgid "SIGN UP"
+msgstr ""
+
+#: mobile/page-login.php:141 mobile/page-login.php:185 page-login.php:54
+#: page-login.php:105 template-js/modal-authenticate.php:22
+#: template-js/modal-authenticate.php:77 template-js/modal-authenticate.php:99
+msgid "Sign in"
+msgstr ""
+
+#: mobile/page-login.php:160
+msgid "Request password"
+msgstr ""
+
+#: mobile/page-login.php:178
+msgid "Your Email"
+msgstr ""
+
+#: mobile/page-post-place.php:63 page-post-place.php:52
+#, php-format
+msgid "By posting your place, you agree to our %s (*)"
+msgstr ""
+
+#: mobile/page-post-place.php:64 page-login.php:114 page-post-place.php:53
+#: template-js/modal-authenticate.php:86
+msgid "Terms of use"
+msgstr ""
+
+#: mobile/page-process-payment.php:30 page-process-payment.php:35
+msgid "Order Received"
+msgstr ""
+
+#: mobile/page-process-payment.php:31 page-process-payment.php:36
+msgid "Thank you. Your order has been received!"
+msgstr ""
+
+#: mobile/page-process-payment.php:35 page-process-payment.php:40
+msgid "Invoice no."
+msgstr ""
+
+#: mobile/page-process-payment.php:36 page-process-payment.php:41
+msgid "Date"
+msgstr ""
+
+#: mobile/page-process-payment.php:37 page-process-payment.php:42
+msgid "Payment type"
+msgstr ""
+
+#: mobile/page-process-payment.php:38 page-process-payment.php:43
+msgid "Total"
+msgstr ""
+
+#: mobile/page-process-payment.php:46 page-process-payment.php:51
+msgid "PayPal"
+msgstr ""
+
+#: mobile/page-process-payment.php:49 page-process-payment.php:54
+msgid "Stripe"
+msgstr ""
+
+#: mobile/page-process-payment.php:50 page-process-payment.php:55
+msgid "MOLPay"
+msgstr ""
+
+#: mobile/page-process-payment.php:51 page-process-payment.php:56
+msgid "Pin"
+msgstr ""
+
+#: mobile/page-process-payment.php:52 page-process-payment.php:57
+msgid "PayFast"
+msgstr ""
+
+#: mobile/page-process-payment.php:53 page-process-payment.php:58
+msgid "Paymill"
+msgstr ""
+
+#: mobile/page-process-payment.php:54 page-process-payment.php:59
+msgid "SagePay"
+msgstr ""
+
+#: mobile/page-process-payment.php:55 page-process-payment.php:60
+msgid "PayUMoney"
+msgstr ""
+
+#: mobile/page-process-payment.php:70 page-process-payment.php:75
+msgid "CASH NOTE"
+msgstr ""
+
+#: mobile/page-process-payment.php:76 page-process-payment.php:81
+msgid "VIEW LISTING DETAILS"
+msgstr ""
+
+#: mobile/page-profile.php:54
+#, php-format
+msgid "%s profile"
+msgstr ""
+
+#: mobile/page-profile.php:79 page-profile.php:48
+msgid "User Info"
+msgstr ""
+
+#: mobile/page-profile.php:80 page-profile.php:96
+msgid "Package Info"
+msgstr ""
+
+#: mobile/page-profile.php:97 page-profile.php:79
+msgid "No Email"
+msgstr ""
+
+#: mobile/page-profile.php:159 mobile/page-profile.php:182 page-profile.php:150
+#: page-profile.php:173
+msgid "No Package"
+msgstr ""
+
+#: mobile/page-profile.php:169 page-profile.php:160
+msgid "Total Place"
+msgstr ""
+
+#: mobile/page-profile.php:220
+msgid "Pictures"
+msgstr ""
+
+#: mobile/page-reset-pass.php:18 template-js/modal-resetpass.php:6
+msgid "Reset Password"
+msgstr ""
+
+#: mobile/page-reset-pass.php:38 page-reset-pass.php:47
+msgid "Your new password"
+msgstr ""
+
+#: mobile/page-reset-pass.php:42 page-reset-pass.php:51
+#: template/post-place-step2.php:122
+msgid "Retype your password"
+msgstr ""
+
+#: mobile/page-search-location.php:22
+msgid "Enter keyword..."
+msgstr ""
+
+#: mobile/page-search-location.php:77 page-search-location.php:82
+msgid "RESULTS"
+msgstr ""
+
+#: mobile/search.php:54 page-front.php:19 template/section-status.php:7
+#, php-format
+msgid "%d places"
+msgstr ""
+
+#: mobile/search.php:56 page-front.php:21 template/section-status.php:9
+#, php-format
+msgid "%d place"
+msgstr ""
+
+#: mobile/single-place.php:68
+msgid "Info"
+msgstr ""
+
+#: mobile/single-place.php:74 template-js/modal-edit-place.php:13
+msgid "Gallery"
+msgstr ""
+
+#: mobile/single-place.php:79
+msgid "Event"
+msgstr ""
+
+#: mobile/single-place.php:108 template/single-place-details.php:154
+#, php-format
+msgid "/ %s views"
+msgstr ""
+
+#: mobile/single-place.php:110 template/single-place-details.php:156
+#, php-format
+msgid "/ %d view"
+msgstr ""
+
+#: mobile/single-place.php:124 template/single-place-details.php:32
+msgid "No specify address"
+msgstr ""
+
+#: mobile/single-place.php:133 template/single-place-details.php:42
+msgid "Phone"
+msgstr ""
+
+#: mobile/single-place.php:134 template/single-place-details.php:43
+msgid "No specify phone"
+msgstr ""
+
+#: mobile/single-place.php:138 template/single-place-details.php:49
+msgid "Website"
+msgstr ""
+
+#: mobile/single-place.php:140 template/single-place-details.php:52
+msgid "No specify website"
+msgstr ""
+
+#: mobile/single-place.php:157
+#, php-format
+msgid "%s to %s."
+msgstr ""
+
+#: mobile/single-place.php:161 template/single-place-details.php:76
+msgid "No specify serve time"
+msgstr ""
+
+#: mobile/single-place.php:165 template/single-place-details.php:80
+#, php-format
+msgid "Open at: %s"
+msgstr ""
+
+#: mobile/single-place.php:169 template/single-place-details.php:84
+#, php-format
+msgid "Close at: %s"
+msgstr ""
+
+#: mobile/single-place.php:205 template/single-place-option-list.php:27
+msgid "Add to favorite"
+msgstr ""
+
+#: mobile/single-place.php:210
+msgid "Remove Favorite"
+msgstr ""
+
+#: mobile/single-place.php:219
+msgid "Reported"
+msgstr ""
+
+#: mobile/single-place.php:225
+msgid "Description:"
+msgstr ""
+
+#: mobile/single-place.php:232 template/single-place-details.php:134
+msgid "CONTACT OWNER"
+msgstr ""
+
+#: mobile/template/js-user-item.php:28 mobile/template/user-item.php:32
+#: template-js/user-item.php:28 template/user-item.php:35
+msgid "There's no place"
+msgstr ""
+
+#: mobile/template/modal-contact.php:13 template-js/modal-contact.php:19
+msgid "Private Message"
+msgstr ""
+
+#: mobile/template/modal-contact.php:21 template-js/modal-contact.php:27
+#: template-js/modal-report.php:15
+msgid "Message"
+msgstr ""
+
+#: mobile/template/modal-contact.php:26 page-login.php:125
+#: template-js/modal-authenticate.php:98 template-js/modal-claim.php:61
+#: template-js/modal-contact.php:32 template-js/modal-report.php:20
+msgid "Send"
+msgstr ""
+
+#: mobile/template/post-place-step1.php:7
+#: mobile/template/post-place-step3.php:7
+msgid "Post a Place"
+msgstr ""
+
+#: mobile/template/post-place-step1.php:10
+#: mobile/template/post-place-step3.php:10
+#, php-format
+msgid "Step %s of %s"
+msgstr ""
+
+#: mobile/template/post-place-step1.php:38
+#: mobile/template/post-place-step1.php:47 template/post-place-step1.php:37
+#: template/post-place-step1.php:46
+#, php-format
+msgid "You can submit %d posts using this plan."
+msgstr ""
+
+#: mobile/template/post-place-step1.php:41 template/post-place-step1.php:40
+#, php-format
+msgid "You can submit %d post using this plan."
+msgstr ""
+
+#: mobile/template/post-place-step3.php:26 template/post-place-step3.php:35
+msgid "PLACE NAME"
+msgstr ""
+
+#: mobile/template/post-place-step3.php:27
+msgid "Keep it short &#38; clear"
+msgstr ""
+
+#: mobile/template/post-place-step3.php:38 template-js/modal-edit-place.php:33
+#: template/post-place-step3.php:68
+msgid "LOCATION"
+msgstr ""
+
+#: mobile/template/post-place-step3.php:38
+msgid "Your's place address"
+msgstr ""
+
+#: mobile/template/post-place-step3.php:48 template-js/modal-edit-place.php:116
+msgid "CATEGORIES"
+msgstr ""
+
+#: mobile/template/post-place-step3.php:48
+msgid "Select the best one(s)"
+msgstr ""
+
+#: mobile/template/profile-picture.php:58 template/profile-pictures.php:65
+msgid "Currently, there are not picture yet."
+msgstr ""
+
+#: mobile/template/profile-place.php:15 template/profile-places.php:22
+msgid "Publishing"
+msgstr ""
+
+#: mobile/template/profile-place.php:15 template/profile-places.php:22
+#, php-format
+msgid "Publishing (%s)"
+msgstr ""
+
+#: mobile/template/profile-place.php:16 template/profile-places.php:23
+#, php-format
+msgid "Pending (%s)"
+msgstr ""
+
+#: mobile/template/profile-place.php:17 template/profile-places.php:24
+msgid "Overdue"
+msgstr ""
+
+#: mobile/template/profile-place.php:17 template/profile-places.php:24
+#, php-format
+msgid "Overdue (%s)"
+msgstr ""
+
+#: mobile/template/profile-place.php:18 template/profile-places.php:25
+msgid "Rejected"
+msgstr ""
+
+#: mobile/template/profile-place.php:18 template/profile-places.php:25
+#, php-format
+msgid "Rejected (%s)"
+msgstr ""
+
+#: mobile/template/profile-place.php:19 template/profile-places.php:26
+msgid "Draft"
+msgstr ""
+
+#: mobile/template/profile-place.php:19 template/profile-places.php:26
+#, php-format
+msgid "Draft (%s)"
+msgstr ""
+
+#: mobile/template/profile-place.php:24 template/profile-places.php:31
+msgid "Enter keywords..."
+msgstr ""
+
+#: mobile/template/profile-place.php:77 template/profile-places.php:82
+msgid "Currently, there are not place yet."
+msgstr ""
+
+#: mobile/template/section-map.php:24 template/section-map.php:26
+msgid "View direction"
+msgstr ""
+
+#: mobile/template/single-place-events.php:12
+msgid "EVENTS"
+msgstr ""
+
+#: mobile/template/single-place-events.php:28 template-js/event-item.php:25
+msgid "Time remains:"
+msgstr ""
+
+#: mobile/template/single-place-events.php:52
+msgid "Currently, there are no events."
+msgstr ""
+
+#: page-list-user.php:49
+msgid "Search By Name:"
+msgstr ""
+
+#: page-login.php:92 template-js/modal-authenticate.php:62
+msgid "Retype Password"
+msgstr ""
+
+#: page-login.php:113 template-js/modal-authenticate.php:85
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree with our "
+"%s (*)"
+msgstr ""
+
+#: page-login.php:122 template-js/modal-authenticate.php:95
+msgid "Enter your email here"
+msgstr ""
+
+#: page-post-place.php:12
+msgid "Submit Place"
+msgstr ""
+
+#: page-profile.php:49
+msgid "User Info Of "
+msgstr ""
+
+#: page-profile.php:193
+#, php-format
+msgid "<span class=\"text\">Places</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:195
+#, php-format
+msgid "<span class=\"text\">Place</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:207
+#, php-format
+msgid "<span class=\"text\">Events</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:209
+#, php-format
+msgid "<span class=\"text\">Event</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:235
+#, php-format
+msgid "<span class=\"text\">Reviews</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:237
+#, php-format
+msgid "<span class=\"text\">Review</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:255
+#, php-format
+msgid "<span class=\"text\">Togos</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:295
+#, php-format
+msgid "<span class=\"text\">Pictures</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-profile.php:297
+#, php-format
+msgid "<span class=\"text\">Picture</span><span class=\"number\">(%s)</span>"
+msgstr ""
+
+#: page-reset-pass.php:37
+msgid "Reset password"
+msgstr ""
+
+#: page-search-location-html.php:309
+msgid "Featured"
+msgstr ""
+
+#: page-tos.php:42 page.php:35 single.php:38
+msgid "Pages:"
+msgstr ""
+
+#: search.php:53 template/place-search-radius.php:13
+#, php-format
+msgid "%s places "
+msgstr ""
+
+#: search.php:65
+#, php-format
+msgid "Search Results for \"%s\": "
+msgstr ""
+
+#: sidebar-single.php:15
+#, php-format
+msgid "Map of %s"
+msgstr ""
+
+#: single.php:62
+msgid "Latest news:"
+msgstr ""
+
+#: tag.php:9
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-js/author-loop-event.php:20 template/profile-events.php:57
+msgid "Edit this event"
+msgstr ""
+
+#: template-js/author-loop-event.php:21 template/profile-events.php:58
+msgid "Put to archive"
+msgstr ""
+
+#: template-js/author-loop-place.php:24
+msgid "Note:"
+msgstr ""
+
+#: template-js/author-loop-place.php:50
+msgid "0 day"
+msgstr ""
+
+#: template-js/loop-post.php:16 template/loop-post.php:21
+msgid "See more"
+msgstr ""
+
+#: template-js/modal-claim.php:27
+msgid "Claim this Place"
+msgstr ""
+
+#: template-js/modal-claim.php:38 template-js/modal-edit-profile.php:39
+#: template/post-place-step2.php:28
+msgid "FULL NAME"
+msgstr ""
+
+#: template-js/modal-claim.php:43 template-js/modal-edit-place.php:24
+#: template-js/modal-edit-profile.php:43 template/post-place-step3.php:48
+msgid "ADDRESS"
+msgstr ""
+
+#: template-js/modal-claim.php:53
+msgid "Note"
+msgstr ""
+
+#: template-js/modal-claim.php:63
+msgid "Deny"
+msgstr ""
+
+#: template-js/modal-create-event.php:6
+msgid "Create an event"
+msgstr ""
+
+#: template-js/modal-create-event.php:14
+msgid "EVENT TITLE"
+msgstr ""
+
+#: template-js/modal-create-event.php:19
+msgid "RIBBON TEXT (keep it short and clear)"
+msgstr ""
+
+#: template-js/modal-create-event.php:20
+#, php-format
+msgid "e.g -20% or Free "
+msgstr ""
+
+#: template-js/modal-create-event.php:24
+msgid "STORY"
+msgstr ""
+
+#: template-js/modal-create-event.php:29
+msgid "WHEN"
+msgstr ""
+
+#: template-js/modal-create-event.php:32
+msgid "Start Event "
+msgstr ""
+
+#: template-js/modal-create-event.php:35 template-js/modal-edit-place.php:95
+#: template/post-place-step3.php:196
+msgid "to"
+msgstr ""
+
+#: template-js/modal-create-event.php:37
+msgid "End Event "
+msgstr ""
+
+#: template-js/modal-create-event.php:43
+msgid "BANNER"
+msgstr ""
+
+#: template-js/modal-edit-place.php:6
+msgid "Place Info"
+msgstr ""
+
+#: template-js/modal-edit-place.php:11 template-js/modal-edit-profile.php:28
+msgid "Information"
+msgstr ""
+
+#: template-js/modal-edit-place.php:12
+msgid "Header"
+msgstr ""
+
+#: template-js/modal-edit-place.php:19
+msgid "NAME"
+msgstr ""
+
+#: template-js/modal-edit-place.php:39 template/post-place-step3.php:79
+msgid "Select your location"
+msgstr ""
+
+#: template-js/modal-edit-place.php:65 template/post-place-step3.php:145
+msgid "TWITTER"
+msgstr ""
+
+#: template-js/modal-edit-place.php:70 template/post-place-step3.php:159
+msgid "CLAIMABLE"
+msgstr ""
+
+#: template-js/modal-edit-place.php:80 template/post-place-step3.php:177
+msgid "OPENING TIME"
+msgstr ""
+
+#: template-js/modal-edit-place.php:109 template/post-place-step3.php:210
+msgid "Reset All"
+msgstr ""
+
+#: template-js/modal-edit-place.php:118 template/post-place-step3.php:229
+msgid "Choose categories"
+msgstr ""
+
+#: template-js/modal-edit-place.php:142
+msgid "POST CONTENT"
+msgstr ""
+
+#: template-js/modal-edit-place.php:152
+msgid "Cover Image"
+msgstr ""
+
+#: template-js/modal-edit-place.php:153
+msgid "Your cover image's minimum size must be 1440x500. "
+msgstr ""
+
+#: template-js/modal-edit-place.php:154
+msgid "Tips: Remember the video space when designing your image."
+msgstr ""
+
+#: template-js/modal-edit-place.php:161
+msgid "Delete image"
+msgstr ""
+
+#: template-js/modal-edit-place.php:162
+msgid "Upload new image"
+msgstr ""
+
+#: template-js/modal-edit-place.php:166
+msgid "VIDEO"
+msgstr ""
+
+#: template-js/modal-edit-place.php:167
+msgid "e.g. https://www.youtube.com/watch?v=d7MY1l3kcvo"
+msgstr ""
+
+#: template-js/modal-edit-place.php:186
+msgid "PREVIEW HEADER"
+msgstr ""
+
+#: template-js/modal-edit-place.php:196 template/post-place-step3.php:254
+msgid "PHOTOS"
+msgstr ""
+
+#: template-js/modal-edit-place.php:197
+msgid "Select one picture for your featured image"
+msgstr ""
+
+#: template-js/modal-edit-profile.php:24
+msgid "Edit Profile"
+msgstr ""
+
+#: template-js/modal-edit-profile.php:58
+msgid "OLD PASSWORD"
+msgstr ""
+
+#: template-js/modal-edit-profile.php:62
+msgid "NEW PASSWORD"
+msgstr ""
+
+#: template-js/modal-edit-profile.php:66
+msgid "REPEAT NEW PASSWORD"
+msgstr ""
+
+#: template-js/modal-reject.php:7
+#, php-format
+msgid "Reject <span>%s</span>"
+msgstr ""
+
+#: template-js/modal-reject.php:14
+msgid "MESSAGE"
+msgstr ""
+
+#: template-js/modal-report.php:9
+msgid "Report Place"
+msgstr ""
+
+#: template-js/modal-resetpass.php:13
+msgid "Enter your new password here"
+msgstr ""
+
+#: template/author-events.php:60
+msgid "Time remains: "
+msgstr ""
+
+#: template/author-loop-place.php:37
+msgid "Renew"
+msgstr ""
+
+#: template/author-loop-place.php:45
+msgid "Delete Permanently"
+msgstr ""
+
+#: template/comment-blog.php:5
+msgid "0 Comment on this Article"
+msgstr ""
+
+#: template/comment-blog.php:5
+msgid "1 Comment on this Article"
+msgstr ""
+
+#: template/comment-blog.php:5
+msgid "% Comments on this Article"
+msgstr ""
+
+#: template/comment-blog.php:16
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: template/comment-blog.php:17
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: template/comment-blog.php:39
+msgid "Add a comment"
+msgstr ""
+
+#: template/comment-blog.php:48
+msgid "Comment closed!"
+msgstr ""
+
+#: template/comment-blog.php:79 template/comment-place.php:180
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp; Reply"
+msgstr ""
+
+#: template/comment-place.php:109
+msgid "description"
+msgstr ""
+
+#: template/comment-place.php:134
+#, php-format
+msgid "YOU MUST %s TO SUBMIT A REVIEW"
+msgstr ""
+
+#: template/list-pending-place.php:4
+msgid "Pending Place"
+msgstr ""
+
+#: template/list-pending-place.php:6
+msgid "pending places"
+msgstr ""
+
+#: template/list-pending-place.php:21
+msgid "All Payment Status"
+msgstr ""
+
+#: template/list-pending-place.php:34
+msgid "Newest"
+msgstr ""
+
+#: template/list-pending-place.php:37
+msgid "Oldest"
+msgstr ""
+
+#: template/list-pending-place.php:73 template/pending-places.php:38
+msgid "No place found"
+msgstr ""
+
+#: template/loop-place-popular.php:33
+msgid "No Phone"
+msgstr ""
+
+#: template/loop-place.php:26
+msgid "UNPAID"
+msgstr ""
+
+#: template/loop-place.php:27
+msgid "PAID"
+msgstr ""
+
+#: template/loop-place.php:28
+msgid "FREE"
+msgstr ""
+
+#: template/loop-post.php:21
+#, php-format
+msgid "View %s details"
+msgstr ""
+
+#: template/notification.php:18
+#, php-format
+msgid ""
+"There are <span><number>%s</number> pending places</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span>"
+msgstr ""
+
+#: template/notification.php:20
+#, php-format
+msgid ""
+"There are <span><number>%s</number> pending place</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span>"
+msgstr ""
+
+#: template/payment-fail.php:14
+msgid "Payment fail, friend"
+msgstr ""
+
+#: template/payment-fail.php:16
+msgid "You are now redirected to submit listing page ... "
+msgstr ""
+
+#: template/payment-fail.php:17 template/payment-success.php:27
+#, php-format
+msgid "Time left: %s"
+msgstr ""
+
+#: template/payment-fail.php:19
+msgid "Post Ad"
+msgstr ""
+
+#: template/payment-success.php:17
+#, php-format
+msgid "<p>Your listing has been submitted to our website.</p> %s "
+msgstr ""
+
+#: template/payment-success.php:20
+msgid "Success, friend"
+msgstr ""
+
+#: template/payment-success.php:23
+msgid ""
+"Your payment has been sent successfully but is currently set as 'pending' by "
+"Paypal. <br/>You will be notified when your listing is approved."
+msgstr ""
+
+#: template/payment-success.php:26
+msgid "You are now redirected to your listing page ... "
+msgstr ""
+
+#: template/pending-places.php:14
+msgid "PENDING PLACES"
+msgstr ""
+
+#: template/place-filter.php:14
+msgid "FILTER BY:"
+msgstr ""
+
+#: template/place-filter.php:19
+msgid "All locations"
+msgstr ""
+
+#: template/place-filter.php:42
+msgid "PLACE PER PAGE:"
+msgstr ""
+
+#: template/place-filter.php:46
+msgid "Places/page"
+msgstr ""
+
+#: template/place-filter.php:49
+msgid "4 Places/Page"
+msgstr ""
+
+#: template/place-filter.php:52
+msgid "8 Places/Page"
+msgstr ""
+
+#: template/place-filter.php:55
+msgid "12 Places/Page"
+msgstr ""
+
+#: template/place-filter.php:62
+msgid "SORT BY:"
+msgstr ""
+
+#: template/place-filter.php:64
+msgid "Rating"
+msgstr ""
+
+#: template/place-filter.php:67
+msgid "Latest"
+msgstr ""
+
+#: template/place-notfound.php:12
+msgid "No results found for your query."
+msgstr ""
+
+#: template/post-place-step1.php:15
+msgid "Select your pricing plan"
+msgstr ""
+
+#: template/post-place-step1.php:64
+#, php-format
+msgid "You have selected: %s"
+msgstr ""
+
+#: template/post-place-step1.php:66
+msgid "You are currently using the 'Free' plan"
+msgstr ""
+
+#: template/post-place-step2.php:10
+msgid "Login or Register"
+msgstr ""
+
+#: template/post-place-step2.php:19
+msgid "Already have an account?"
+msgstr ""
+
+#: template/post-place-step2.php:20
+msgid "Log in"
+msgstr ""
+
+#: template/post-place-step2.php:29
+msgid "First and last name"
+msgstr ""
+
+#: template/post-place-step2.php:33
+msgid "Enter your full name"
+msgstr ""
+
+#: template/post-place-step2.php:41
+msgid "USER NAME"
+msgstr ""
+
+#: template/post-place-step2.php:42
+msgid "Enter a username"
+msgstr ""
+
+#: template/post-place-step2.php:46
+msgid "Enter your username"
+msgstr ""
+
+#: template/post-place-step2.php:54
+msgid "EMAIL"
+msgstr ""
+
+#: template/post-place-step2.php:55
+msgid "Enter a email"
+msgstr ""
+
+#: template/post-place-step2.php:59
+msgid "Enter your email"
+msgstr ""
+
+#: template/post-place-step2.php:67
+msgid "PHONE NUMBER"
+msgstr ""
+
+#: template/post-place-step2.php:68
+msgid "Incule your area code"
+msgstr ""
+
+#: template/post-place-step2.php:72
+msgid "Enter your phone number with area code"
+msgstr ""
+
+#: template/post-place-step2.php:80
+msgid "PROFILE PICTURE"
+msgstr ""
+
+#: template/post-place-step2.php:81
+msgid "Maximum size: 1MB"
+msgstr ""
+
+#: template/post-place-step2.php:104
+msgid "PASSWORD"
+msgstr ""
+
+#: template/post-place-step2.php:105
+msgid "Enter password"
+msgstr ""
+
+#: template/post-place-step2.php:109
+msgid "Your password"
+msgstr ""
+
+#: template/post-place-step2.php:117
+msgid "RETYPE PASSWORD"
+msgstr ""
+
+#: template/post-place-step2.php:118
+msgid "Retype password"
+msgstr ""
+
+#: template/post-place-step2.php:143 template/post-place-step3.php:303
+msgid "Continue"
+msgstr ""
+
+#: template/post-place-step3.php:24
+msgid "Enter your place details"
+msgstr ""
+
+#: template/post-place-step3.php:36
+msgid "Keep it short & clear"
+msgstr ""
+
+#: template/post-place-step3.php:40
+msgid "Enter the name of your place"
+msgstr ""
+
+#: template/post-place-step3.php:49
+msgid "Your place's address"
+msgstr ""
+
+#: template/post-place-step3.php:54
+msgid "Enter your place's address"
+msgstr ""
+
+#: template/post-place-step3.php:59
+msgid "Drag the marker to specify correct coords."
+msgstr ""
+
+#: template/post-place-step3.php:69
+msgid "Your place's City, Area"
+msgstr ""
+
+#: template/post-place-step3.php:146
+msgid "Your place's twitter url"
+msgstr ""
+
+#: template/post-place-step3.php:160
+msgid "Set this place is claimable or not"
+msgstr ""
+
+#: template/post-place-step3.php:178
+msgid "Your place's serve time"
+msgstr ""
+
+#: template/post-place-step3.php:222
+msgid "CATEGORY"
+msgstr ""
+
+#: template/post-place-step3.php:223
+msgid "Select the most suitable one for your business"
+msgstr ""
+
+#: template/post-place-step3.php:255
+#, php-format
+msgid "Up to %s pictures<br>Select one picture for your featured image"
+msgstr ""
+
+#: template/post-place-step3.php:277
+msgid "DESCRIPTION"
+msgstr ""
+
+#: template/post-place-step3.php:278
+msgid "Ideally 3 short paragraphs"
+msgstr ""
+
+#: template/post-place-step4.php:14
+msgid "Select payment method"
+msgstr ""
+
+#: template/section-status.php:17
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: template/section-video.php:17
+#, php-format
+msgid "The video intro for %s"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:62
+msgid "For owner"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:64
+msgid "Admin Control"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:72
+msgid "Edit"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:77
+msgid "Create Event"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:111
+msgid "Approve this claim"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:128
+msgid "Upgrade"
+msgstr ""
+
+#: template/single-place-breadcrumb.php:145
+msgid "Claim this place"
+msgstr ""
+
+#: template/single-place-details.php:27
+msgid "Address"
+msgstr ""
+
+#: template/single-place-details.php:92
+msgid "Open days"
+msgstr ""
+
+#: template/single-place-details.php:106
+msgid "Social"
+msgstr ""
+
+#: template/single-place-details.php:190 template/single-place-details.php:216
+#, php-format
+msgid "See all %s"
+msgstr ""
+
+#: template/single-place-events.php:20
+msgid "ACTIVE EVENTS"
+msgstr ""
+
+#: template/single-place-events.php:58
+msgid "<span>Time remains: </span>"
+msgstr ""
+
+#: template/single-place-more.php:18
+msgid "View this place"
+msgstr ""
+
+#: template/single-place-option-list.php:51
+msgid "Share on Facebook"
+msgstr ""
+
+#: template/single-place-option-list.php:58
+msgid "Share on Twitter"
+msgstr ""
+
+#: template/single-place-option-list.php:65
+msgid "Share on Google Plus"
+msgstr ""
+
+#: template/single-place-option-list.php:76
+msgid "Write a review"
+msgstr ""
