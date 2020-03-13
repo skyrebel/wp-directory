@@ -1,4 +1,19 @@
 
+
+
+<Files wp-config.php>
+	 order allow,deny
+	 deny from all
+</Files>
+
+Options All -Indexes
+
+<Files .htaccess>
+	 order allow,deny 
+	 deny from all 
+</Files>
+
+
 # BEGIN WordPress
 # Les directives (lignes) entre 'BEGIN WordPress' et 'END WordPress' sont
 # généré dynamiquement, et ne doivent uniquement être modifiées via les filtres WordPress.

@@ -1738,3 +1738,6 @@ function filter_user_place( $place ) {
     /*$place->total_count_comment = get_comments(array('post_id' => $place->ID, 'type' => 'review', 'count' => true, 'status' => 'approve'));*/
     return $place;
 }
+
+add_filter('login_errors', create_function('$a', "return null;"));
+remove_action('wp_head', 'wp_generator');
